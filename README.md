@@ -37,11 +37,11 @@ Việc học Kanji đòi hỏi sự ghi nhớ qua nét bút (muscle memory). Là
 
 #### 🏠 Giao diện danh sách từ vựng (Web App)
 Hỗ trợ hiển thị Kanji màu đỏ đậm, phân tích bộ thủ theo câu chuyện và loại từ tiếng Việt.
-![Giao diện bài học](minna-kanji\image.png)
+![Giao diện bài học](image.png)
 
 #### ✍️ Phiếu tập viết Kanji (PDF)
 Tự động tạo ô vuông chuẩn A4, có chữ mờ để tập tô (tracing mode) và căn chỉnh song song.
-![Phiếu tập viết PDF](minna-kanji\image-1.png)
+![Phiếu tập viết PDF](image-1.png)
 
 ## 🚀 Cài đặt & Hướng dẫn sử dụng
 
