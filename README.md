@@ -98,7 +98,7 @@ minna-kanji-pdf/
 ├── app.py                   # File chạy chính (Flask App)
 └── requirements.txt         # Danh sách thư viện Python
 
-🗓️ Lộ trình phát triển (Roadmap)
+## 🗓️ Lộ trình phát triển (Roadmap)
 [x] Tạo file PDF cơ bản (Bài 26)
 
 [x] Xây dựng giao diện Web với Flask
