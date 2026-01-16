@@ -81,24 +81,6 @@ Tự động tạo ô vuông chuẩn A4, có chữ mờ để tập tô (tracing
 5.  **Truy cập Web App**
     Mở trình duyệt và truy cập địa chỉ: `http://127.0.0.1:5000`
 
-## 📂 Cấu trúc dự án
-
-```text
-minna-kanji-pdf/
-├── assets/                  # Font chữ & tài nguyên tĩnh
-├── data/                    # Dữ liệu JSON (Bài 26-50)
-│   └── lesson_26.json
-├── static/                  # CSS, JS, Hình ảnh
-│   └── style.css            # CSS tùy chỉnh cho Web & PDF
-├── templates/               # HTML Templates (Jinja2)
-│   ├── layout.html          # Layout gốc
-│   ├── lesson.html          # Giao diện bài học
-│   └── practice_sheet.html  # Template cho file PDF
-├── output/                  # Thư mục chứa file PDF sau khi tải
-├── app.py                   # File chạy chính (Flask App)
-└── requirements.txt         # Danh sách thư viện Python
-```
-
 ## 📝 Bản quyền (License)
 
 Dự án được phân phối theo giấy phép **MIT**.  
