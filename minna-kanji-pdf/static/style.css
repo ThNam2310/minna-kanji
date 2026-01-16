@@ -8,7 +8,9 @@ body {
     color: #333;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     margin-bottom: 20px;
 }
 
@@ -19,26 +21,37 @@ h1, h2, h3 {
     border-color: #dee2e6;
 }
 
-.table-striped > tbody > tr:nth-of-type(odd) {
+.table-striped>tbody>tr:nth-of-type(odd) {
     background-color: rgba(0, 0, 0, 0.05);
 }
 
-.table-bordered > :not(caption) > * {
+.table-bordered> :not(caption)>* {
     border-width: 1px 0;
 }
 
-.table-bordered > :not(caption) > * > * {
+.table-bordered> :not(caption)>*>* {
     border-width: 0 1px;
 }
 
 .kanji-cell {
-    font-size: 2em;
+    font-size: 1.2em;
     font-weight: bold;
+    color: #b30000 !important;
+}
+
+.hiragana-cell {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #333 !important;
 }
 
 .radical-info {
     font-size: 0.9em;
     color: #555;
+}
+
+.radical-info strong {
+    color: #b30000 !important;
 }
 
 .badge-type {

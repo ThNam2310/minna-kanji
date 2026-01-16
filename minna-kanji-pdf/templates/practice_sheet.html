@@ -7,7 +7,8 @@
     <style>
         @page {
             size: A4;
-            margin: 1.5cm;
+            margin: 1.0cm;
+            /* Reduced margin to maximize space */
         }
 
         body {
@@ -25,8 +26,12 @@
         .practice-row {
             display: flex;
             align-items: center;
-            margin-bottom: 20px;
+            /* Vertical Center Alignment */
+            margin-bottom: 12px;
             page-break-inside: avoid;
+            border-bottom: 1px solid #eee;
+            /* Optional visual guide */
+            padding-bottom: 8px;
         }
 
         /* Left Info Column */
@@ -34,53 +39,66 @@
             width: 180px;
             padding-right: 15px;
             font-size: 14px;
+            flex-shrink: 0;
+            /* Prevent shrinking */
         }
 
         .kanji-display {
-            font-size: 28px;
+            font-size: 24px;
+            /* Slightly smaller to fit complex kanji */
             font-weight: bold;
-            margin-bottom: 5px;
+            margin-bottom: 3px;
+            line-height: 1.2;
         }
 
         .hiragana-display {
-            font-size: 16px;
+            font-size: 14px;
             color: #555;
         }
 
+        .hanviet-display {
+            font-size: 12px;
+            color: #777;
+            font-weight: bold;
+        }
+
         .meaning-display {
-            font-size: 14px;
-            margin-top: 4px;
+            font-size: 12px;
+            margin-top: 2px;
             font-style: italic;
         }
 
         /* Right Grid Column */
         .grid-container {
             display: flex;
-            flex-grow: 1;
+            flex-wrap: wrap;
+            /* Allow wrapping if needed, though mostly single row */
+            gap: 0;
         }
 
         /* The Genkouyoushi Box */
         .box {
-            width: 68px;
-            /* Approx 1.8cm */
-            height: 68px;
+            width: 1.8cm;
+            height: 1.8cm;
             border: 1px solid #333;
             margin-right: -1px;
             /* Overlap borders */
             position: relative;
             box-sizing: border-box;
+            background-color: transparent;
 
-            /* Center the tracing text */
+            /* Center the tracing text perfectly */
             display: flex;
             align-items: center;
             justify-content: center;
 
             /* Tracing Font Style */
-            font-size: 40px;
+            font-size: 26pt;
+            /* Large font size */
             color: #d3d3d3;
             /* Light Gray */
-            font-family: serif;
-            /* Mincho-like for better practice */
+            font-family: "Noto Serif JP", serif;
+            /* Serif checks looks more like handwriting */
         }
 
         /* Dashed Cross Lines */
@@ -115,13 +133,20 @@
         <div class="word-info">
             <div class="kanji-display">{{ item.kanji }}</div>
             <div class="hiragana-display">{{ item.hiragana }}</div>
+            {% if item.hanviet != '-' %}
+            <div class="hanviet-display">{{ item.hanviet }}</div>
+            {% endif %}
             <div class="meaning-display">{{ item.meaning }}</div>
         </div>
 
-        <!-- Right Side: Writing Boxes (8 boxes to fit larger size) -->
+        <!-- Right Side: Writing Boxes (12 boxes) -->
         <div class="grid-container">
-            {% for i in range(8) %}
-            <div class="box">{{ item.kanji }}</div>
+            {% for i in range(12) %}
+            <div class="box">
+                {# Logic: Cycle through the characters of the kanji string #}
+                {% set char_index = i % (item.kanji|length) %}
+                {{ item.kanji[char_index] }}
+            </div>
             {% endfor %}
         </div>
     </div>

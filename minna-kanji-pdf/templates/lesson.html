@@ -35,16 +35,16 @@
                 {% for item in vocab_list %}
                 <tr>
                     <td class="kanji-cell text-center align-middle">{{ item.kanji }}</td>
-                    <td class="align-middle fw-bold">{{ item.hiragana }}</td>
-                    <td class="align-middle">{{ item.hanviet }}</td>
-                    <td class="align-middle">{{ item.meaning }}</td>
-                    <td class="align-middle">
+                    <td class="hiragana-cell align-middle fw-bold">{{ item.hiragana }}</td>
+                    <td class="hanviet-cell align-middle">{{ item.hanviet }}</td>
+                    <td class="meaning-cell align-middle">{{ item.meaning }}</td>
+                    <td class="radical-cell align-middle">
                         <div class="radical-info">
                             <strong>{{ item.radical_analysis.radical }}</strong><br>
                             {{ item.radical_analysis.explanation }}
                         </div>
                     </td>
-                    <td class="align-middle text-center">
+                    <td class="type-cell align-middle text-center">
                         <span class="badge-type">{{ item.type }}</span>
                     </td>
                 </tr>
