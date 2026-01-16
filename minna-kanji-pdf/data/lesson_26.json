@@ -1,0 +1,468 @@
+{
+  "lesson_id": 26,
+  "title": "Minna no Nihongo - Bài 26",
+  "vocab_list": [
+    {
+      "kanji": "診る",
+      "hiragana": "みる",
+      "hanviet": "CHẨN",
+      "meaning": "Xem, khám bệnh",
+      "radical_analysis": {
+        "radical": "言 (Ngôn)",
+        "explanation": "Dùng lời nói (言) để chẩn đoán (㐱) bệnh."
+      },
+      "type": "verb"
+    },
+    {
+      "kanji": "探す",
+      "hiragana": "さがす",
+      "hanviet": "THÁM",
+      "meaning": "Tìm, tìm kiếm",
+      "radical_analysis": {
+        "radical": "扌 (Thủ)",
+        "explanation": "Dùng tay (扌) mò mẫm tìm kiếm trong sâu thẳm (罙)."
+      },
+      "type": "verb"
+    },
+    {
+      "kanji": "遅れる",
+      "hiragana": "おくれる",
+      "hanviet": "TRÌ",
+      "meaning": "Chậm, muộn [giờ]",
+      "radical_analysis": {
+        "radical": "辶 (Sước)",
+        "explanation": "Đi (辶) mà mang theo con cừu (羊) trên xác chết (尸) thì sẽ chậm trễ."
+      },
+      "type": "verb"
+    },
+    {
+      "kanji": "間に合う",
+      "hiragana": "まにあう",
+      "hanviet": "GIAN HỢP",
+      "meaning": "Kịp [giờ]",
+      "radical_analysis": {
+        "radical": "門 (Môn)",
+        "explanation": "Mặt trời (日) ở giữa cửa (門) là thời gian (Giờ)."
+      },
+      "type": "verb"
+    },
+    {
+      "kanji": "やる",
+      "hiragana": "やる",
+      "hanviet": "-",
+      "meaning": "Làm",
+      "radical_analysis": {
+        "radical": "-",
+        "explanation": "Từ vựng Hiragana."
+      },
+      "type": "verb"
+    },
+    {
+      "kanji": "拾う",
+      "hiragana": "ひろう",
+      "hanviet": "THẬP",
+      "meaning": "Nhặt, lượm",
+      "radical_analysis": {
+        "radical": "扌 (Thủ)",
+        "explanation": "Dùng tay (扌) để nhặt, hợp (合) lại với nhau."
+      },
+      "type": "verb"
+    },
+    {
+      "kanji": "連絡する",
+      "hiragana": "れんらくする",
+      "hanviet": "LIÊN LẠC",
+      "meaning": "Liên lạc",
+      "radical_analysis": {
+        "radical": "糸 (Mịch)",
+        "explanation": "Sợi chỉ (糸) nối liền xe (車) lại với nhau (Liên)."
+      },
+      "type": "verb"
+    },
+    {
+      "kanji": "気分がいい",
+      "hiragana": "きぶんがいい",
+      "hanviet": "KHÍ PHÂN LƯƠNG",
+      "meaning": "Cảm thấy thoải mái/khỏe",
+      "radical_analysis": {
+        "radical": "气 (Khí)",
+        "explanation": "Hơi nước bốc lên thành khí."
+      },
+      "type": "phrase"
+    },
+    {
+      "kanji": "気分が悪い",
+      "hiragana": "きぶんがわるい",
+      "hanviet": "KHÍ PHÂN ÁC",
+      "meaning": "Cảm thấy mệt/khó chịu",
+      "radical_analysis": {
+        "radical": "心 (Tâm)",
+        "explanation": "Tâm (心) xấu (tệ) thì là Ác."
+      },
+      "type": "phrase"
+    },
+    {
+      "kanji": "運動会",
+      "hiragana": "うんどうかい",
+      "hanviet": "VẬN ĐỘNG HỘI",
+      "meaning": "Hội thi thể thao",
+      "radical_analysis": {
+        "radical": "辶 (Sước)",
+        "explanation": "Quân lính (軍) di chuyển (辶) là vận chuyển/vận động."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "盆踊り",
+      "hiragana": "ぼんおどり",
+      "hanviet": "BỒN DŨNG",
+      "meaning": "Múa Bon",
+      "radical_analysis": {
+        "radical": "皿 (Mãnh)",
+        "explanation": "Cắt (分) ra để vào đĩa (皿) là cái khay (Bồn)."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "フリーマーケット",
+      "hiragana": "",
+      "hanviet": "-",
+      "meaning": "Chợ đồ cũ",
+      "radical_analysis": {
+        "radical": "-",
+        "explanation": "Katakana."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "場所",
+      "hiragana": "ばしょ",
+      "hanviet": "TRƯỜNG SỞ",
+      "meaning": "Địa điểm, nơi",
+      "radical_analysis": {
+        "radical": "土 (Thổ)",
+        "explanation": "Đất (土) dễ (易) thay đổi là nơi chốn."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "ボランティア",
+      "hiragana": "",
+      "hanviet": "-",
+      "meaning": "Tình nguyện viên",
+      "radical_analysis": {
+        "radical": "-",
+        "explanation": "Katakana."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "財布",
+      "hiragana": "さいふ",
+      "hanviet": "TÀI BỐ",
+      "meaning": "Cái ví",
+      "radical_analysis": {
+        "radical": "貝 (Bối)",
+        "explanation": "Tiền (Bối) dùng tài năng (才) để kiếm (Tài)."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "ごみ",
+      "hiragana": "ごみ",
+      "hanviet": "-",
+      "meaning": "Rác",
+      "radical_analysis": {
+        "radical": "-",
+        "explanation": "Hiragana."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "国会議事堂",
+      "hiragana": "こっかいぎじどう",
+      "hanviet": "QUỐC HỘI NGHỊ SỰ ĐƯỜNG",
+      "meaning": "Tòa nhà quốc hội",
+      "radical_analysis": {
+        "radical": "囗 (Vi)",
+        "explanation": "Viên ngọc (玉) trong bức tường bao (囗) là Đất nước."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "平日",
+      "hiragana": "へいじつ",
+      "hanviet": "BÌNH NHẬT",
+      "meaning": "Ngày thường",
+      "radical_analysis": {
+        "radical": "干 (Can)",
+        "explanation": "Cái cân thăng bằng là Bình."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "～弁",
+      "hiragana": "べん",
+      "hanviet": "BIỆN",
+      "meaning": "Tiếng ~, giọng ~ (phương ngữ)",
+      "radical_analysis": {
+        "radical": "廾 (Củng)",
+        "explanation": "Hai tay nâng mạo từ lên để biện hộ."
+      },
+      "type": "suffix"
+    },
+    {
+      "kanji": "今度",
+      "hiragana": "こんど",
+      "hanviet": "KIM ĐỘ",
+      "meaning": "Lần tới",
+      "radical_analysis": {
+        "radical": "人 (Nhân)",
+        "explanation": "Bây giờ (Kim). Đo lường (Độ)."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "随分",
+      "hiragana": "ずいぶん",
+      "hanviet": "TÙY PHÂN",
+      "meaning": "Khá, tương đối",
+      "radical_analysis": {
+        "radical": "阝 (Phụ)",
+        "explanation": "Đi theo (Tùy)."
+      },
+      "type": "adv"
+    },
+    {
+      "kanji": "直接",
+      "hiragana": "ちょくせつ",
+      "hanviet": "TRỰC TIẾP",
+      "meaning": "Trực tiếp",
+      "radical_analysis": {
+        "radical": "目 (Mục)",
+        "explanation": "Mười (十) con mắt (目) nhìn thẳng (Trực)."
+      },
+      "type": "adv"
+    },
+    {
+      "kanji": "いつでも",
+      "hiragana": "いつでも",
+      "hanviet": "-",
+      "meaning": "Lúc nào cũng",
+      "radical_analysis": {
+        "radical": "-",
+        "explanation": "Hiragana."
+      },
+      "type": "adv"
+    },
+    {
+      "kanji": "どこでも",
+      "hiragana": "どこでも",
+      "hanviet": "-",
+      "meaning": "Ở đâu cũng",
+      "radical_analysis": {
+        "radical": "-",
+        "explanation": "Hiragana."
+      },
+      "type": "adv"
+    },
+    {
+      "kanji": "だれでも",
+      "hiragana": "だれでも",
+      "hanviet": "-",
+      "meaning": "Ai cũng",
+      "radical_analysis": {
+        "radical": "-",
+        "explanation": "Hiragana."
+      },
+      "type": "adv"
+    },
+    {
+      "kanji": "何でも",
+      "hiragana": "なんでも",
+      "hanviet": "HÀ",
+      "meaning": "Cái gì cũng",
+      "radical_analysis": {
+        "radical": "人 (Nhân)",
+        "explanation": "Người (亻) gánh vác (Khả) là cái gì (Hà)."
+      },
+      "type": "adv"
+    },
+    {
+      "kanji": "こんな",
+      "hiragana": "-",
+      "hanviet": "-",
+      "meaning": "~Như thế này",
+      "radical_analysis": {
+        "radical": "-",
+        "explanation": "Hiragana."
+      },
+      "type": "adv"
+    },
+    {
+      "kanji": "片づく",
+      "hiragana": "かたづく",
+      "hanviet": "PHIẾN PHÓ",
+      "meaning": "Được dọn dẹp",
+      "radical_analysis": {
+        "radical": "片 (Phiến)",
+        "explanation": "Một nửa của cây là tấm/mảnh (Phiến)."
+      },
+      "type": "verb"
+    },
+    {
+      "kanji": "出す",
+      "hiragana": "だす",
+      "hanviet": "XUẤT",
+      "meaning": "Đổ, để (rác)",
+      "radical_analysis": {
+        "radical": "凵 (Khảm)",
+        "explanation": "Núi (山) chồng lên núi là đi ra (Xuất)."
+      },
+      "type": "verb"
+    },
+    {
+      "kanji": "燃えるごみ",
+      "hiragana": "もえるごみ",
+      "hanviet": "NHIÊN",
+      "meaning": "Rác cháy được",
+      "radical_analysis": {
+        "radical": "火 (Hỏa)",
+        "explanation": "Lửa (火) đốt cháy nhiên liệu (Nhiên)."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "置き場",
+      "hiragana": "おきば",
+      "hanviet": "TRÍ TRƯỜNG",
+      "meaning": "Nơi để",
+      "radical_analysis": {
+        "radical": "罒 (Võng)",
+        "explanation": "Đặt cái lưới (罒) thẳng (直) xuống là đặt để (Trí)."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "横",
+      "hiragana": "よこ",
+      "hanviet": "HOÀNH",
+      "meaning": "Bên cạnh",
+      "radical_analysis": {
+        "radical": "木 (Mộc)",
+        "explanation": "Cây (木) màu vàng (Hoàng) mọc ngang (Hoành)."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "瓶",
+      "hiragana": "びん",
+      "hanviet": "BÌNH",
+      "meaning": "Cái chai",
+      "radical_analysis": {
+        "radical": "瓦 (Ngõa)",
+        "explanation": "Hai cái bình (併) làm bằng gốm (瓦)."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "缶",
+      "hiragana": "かん",
+      "hanviet": "PHẪU",
+      "meaning": "Cái lon",
+      "radical_analysis": {
+        "radical": "缶 (Phẫu)",
+        "explanation": "Đồ sành sứ."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "ガス",
+      "hiragana": "",
+      "hanviet": "-",
+      "meaning": "Ga",
+      "radical_analysis": {
+        "radical": "-",
+        "explanation": "Katakana."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "宇宙",
+      "hiragana": "うちゅう",
+      "hanviet": "VŨ TRỤ",
+      "meaning": "Vũ trụ",
+      "radical_analysis": {
+        "radical": "宀 (Miên)",
+        "explanation": "Mái nhà (宀) che chở khoảng không (Vũ)."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "～様",
+      "hiragana": "さま",
+      "hanviet": "DẠNG",
+      "meaning": "Ông/bà/ngài",
+      "radical_analysis": {
+        "radical": "木 (Mộc)",
+        "explanation": "Con dê (羊) bên cạnh cái cây (木) uống nước (Im) là hình dạng (Dạng)."
+      },
+      "type": "suffix"
+    },
+    {
+      "kanji": "宇宙船",
+      "hiragana": "うちゅうせん",
+      "hanviet": "VŨ TRỤ THUYỀN",
+      "meaning": "Tàu vũ trụ",
+      "radical_analysis": {
+        "radical": "舟 (Chu)",
+        "explanation": "Con thuyền (舟) đi qua đầm lầy (Chu)."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "怖い",
+      "hiragana": "こわい",
+      "hanviet": "BỐ",
+      "meaning": "Sợ",
+      "radical_analysis": {
+        "radical": "心 (Tâm)",
+        "explanation": "Tâm (忄) lo sợ khi vải (Bố) che mắt."
+      },
+      "type": "adj"
+    },
+    {
+      "kanji": "宇宙ステーション",
+      "hiragana": "",
+      "hanviet": "-",
+      "meaning": "Trạm vũ trụ",
+      "radical_analysis": {
+        "radical": "-",
+        "explanation": "Katakana."
+      },
+      "type": "noun"
+    },
+    {
+      "kanji": "違う",
+      "hiragana": "ちがう",
+      "hanviet": "VI",
+      "meaning": "Khác",
+      "radical_analysis": {
+        "radical": "辶 (Sước)",
+        "explanation": "Đi (辶) trái với da (Vi) là sai khác."
+      },
+      "type": "verb"
+    },
+    {
+      "kanji": "宇宙飛行士",
+      "hiragana": "うちゅうひこうし",
+      "hanviet": "VŨ TRỤ PHI HÀNH SĨ",
+      "meaning": "Nhà du hành vũ trụ",
+      "radical_analysis": {
+        "radical": "士 (Sĩ)",
+        "explanation": "Người trí thức (Sĩ)."
+      },
+      "type": "noun"
+    }
+  ]
+}

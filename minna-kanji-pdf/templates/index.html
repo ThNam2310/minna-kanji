@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+
+{% block title %}Danh sách bài học - Minna Kanji{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-12 text-center">
+        <h1>Danh sách bài học</h1>
+        <p class="lead">Chọn bài học để xem tài liệu</p>
+    </div>
+</div>
+
+<div class="row">
+    {% for lesson in lessons %}
+    <div class="col-md-4 mb-4">
+        <div class="card h-100 shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">Bài {{ lesson.id }}</h5>
+                <p class="card-text">{{ lesson.title }}</p>
+                <a href="/lesson/{{ lesson.id }}" class="btn btn-primary stretched-link">Xem bài học</a>
+            </div>
+        </div>
+    </div>
+    {% else %}
+    <div class="col-12 text-center">
+        <div class="alert alert-warning">
+            Không tìm thấy bài học nào.
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
