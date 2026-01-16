@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }} - Tập viết</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 1.5cm;
+        }
+
+        body {
+            font-family: "Noto Sans JP", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        .practice-row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            page-break-inside: avoid;
+        }
+
+        /* Left Info Column */
+        .word-info {
+            width: 180px;
+            padding-right: 15px;
+            font-size: 14px;
+        }
+
+        .kanji-display {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .hiragana-display {
+            font-size: 16px;
+            color: #555;
+        }
+
+        .meaning-display {
+            font-size: 14px;
+            margin-top: 4px;
+            font-style: italic;
+        }
+
+        /* Right Grid Column */
+        .grid-container {
+            display: flex;
+            flex-grow: 1;
+        }
+
+        /* The Genkouyoushi Box */
+        .box {
+            width: 68px;
+            /* Approx 1.8cm */
+            height: 68px;
+            border: 1px solid #333;
+            margin-right: -1px;
+            /* Overlap borders */
+            position: relative;
+            box-sizing: border-box;
+
+            /* Center the tracing text */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            /* Tracing Font Style */
+            font-size: 40px;
+            color: #d3d3d3;
+            /* Light Gray */
+            font-family: serif;
+            /* Mincho-like for better practice */
+        }
+
+        /* Dashed Cross Lines */
+        .box::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 0;
+            right: 0;
+            border-top: 1px dashed #ccc;
+            z-index: -1;
+        }
+
+        .box::after {
+            content: "";
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            border-left: 1px dashed #ccc;
+            z-index: -1;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>{{ title }} - Tập Viết</h1>
+
+    {% for item in vocab_list %}
+    <div class="practice-row">
+        <!-- Left Side: Info -->
+        <div class="word-info">
+            <div class="kanji-display">{{ item.kanji }}</div>
+            <div class="hiragana-display">{{ item.hiragana }}</div>
+            <div class="meaning-display">{{ item.meaning }}</div>
+        </div>
+
+        <!-- Right Side: Writing Boxes (8 boxes to fit larger size) -->
+        <div class="grid-container">
+            {% for i in range(8) %}
+            <div class="box">{{ item.kanji }}</div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</body>
+
+</html>
