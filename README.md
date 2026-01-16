@@ -97,34 +97,15 @@ minna-kanji-pdf/
 ├── output/                  # Thư mục chứa file PDF sau khi tải
 ├── app.py                   # File chạy chính (Flask App)
 └── requirements.txt         # Danh sách thư viện Python
+```
 
-## 🗓️ Lộ trình phát triển (Roadmap)
-[x] Tạo file PDF cơ bản (Bài 26)
+## 📝 Bản quyền (License)
 
-[x] Xây dựng giao diện Web với Flask
+Dự án được phân phối theo giấy phép **MIT**.  
+Xem file `LICENSE` để biết thêm chi tiết.
 
-[x] Chế độ tập tô (Chữ xám nét mờ)
+---
 
-[ ] Cập nhật dữ liệu cho Bài 27-50
-
-[ ] Chế độ Dark Mode cho Web
-
-[ ] Tính năng tự nhập từ vựng tùy chỉnh (Custom Vocabulary)
-
-🤝 Đóng góp (Contributing)
-Mọi sự đóng góp đều được hoan nghênh! Dù là thêm dữ liệu bài học mới, sửa lỗi hay cải thiện giao diện.
-
-Fork dự án
-
-Tạo nhánh tính năng mới (git checkout -b feature/TinhNangMoi)
-
-Commit thay đổi của bạn (git commit -m 'Thêm tính năng XYZ')
-
-Push lên nhánh (git push origin feature/TinhNangMoi)
-
-Tạo một Pull Request
-
-📝 Bản quyền
-Dự án được phân phối dưới giấy phép MIT. Xem file LICENSE để biết thêm chi tiết.
-
-Được thực hiện bởi [ThNam2310](https://github.com/ThNam2310) Fullstack Developer & Japanese Learner
+### 👤 Tác giả
+**[ThNam2310](https://github.com/ThNam2310)**  
+Fullstack Developer & Japanese Learner
