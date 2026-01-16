@@ -33,9 +33,16 @@ Việc học Kanji đòi hỏi sự ghi nhớ qua nét bút (muscle memory). Là
 * **Frontend:** HTML5, CSS3, Bootstrap 5
 * **Data:** JSON (Lưu trữ cấu trúc Kanji, Hán-Việt, Bộ thủ và Ý nghĩa)
 
-## 📸 Hình ảnh demo
+## 📸 Hình ảnh Demo
 
-*(Hãy thêm ảnh chụp màn hình dự án của bạn vào đây: Trang chủ, Chi tiết bài học, File PDF)*
+#### 🏠 Giao diện danh sách từ vựng (Web App)
+Hỗ trợ hiển thị Kanji màu đỏ đậm, phân tích bộ thủ theo câu chuyện và loại từ tiếng Việt.
+![Giao diện bài học](minna-kanji\image.png)
+
+#### ✍️ Phiếu tập viết Kanji (PDF)
+Tự động tạo ô vuông chuẩn A4, có chữ mờ để tập tô (tracing mode) và căn chỉnh song song.
+![Phiếu tập viết PDF](minna-kanji\image-1.png)
+
 ## 🚀 Cài đặt & Hướng dẫn sử dụng
 
 ### Yêu cầu tiên quyết (Prerequisites)
