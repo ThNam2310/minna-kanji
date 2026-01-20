@@ -1,0 +1,413 @@
+{
+    "lesson_id": 28,
+    "title": "Minna no Nihongo - Bài 28",
+    "vocab_list": [
+        {
+            "kanji": "売れます",
+            "hiragana": "うれます",
+            "hanviet": "MẠI",
+            "meaning": "Bán chạy [bánh mì]",
+            "radical_analysis": {
+                "radical": "士 (Sĩ), 冖 (Mịch), 儿 (Nhân)",
+                "explanation": "Mại (売): Kẻ sĩ (士) đội mũ trùm (冖) đi (儿) bán hàng."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "踊ります",
+            "hiragana": "おどります",
+            "hanviet": "DŨNG",
+            "meaning": "Múa",
+            "radical_analysis": {
+                "radical": "足 (Túc), 勇 (Dũng)",
+                "explanation": "Dũng (踊): Chân (Túc) dậm nhảy một cách dũng cảm (Dũng)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "選びます",
+            "hiragana": "えらびます",
+            "hanviet": "TUYỂN",
+            "meaning": "Lựa chọn, tuyển chọn",
+            "radical_analysis": {
+                "radical": "⻌ (Sước), 巳 (Tị)",
+                "explanation": "Tuyển (選): Hai con rắn (Tị - 巳) đi (Sước) thi tuyển chọn."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "通います",
+            "hiragana": "かよいます",
+            "hanviet": "THÔNG",
+            "meaning": "Đi học [đại học], đi làm (thường xuyên)",
+            "radical_analysis": {
+                "radical": "⻌ (Sước), 用 (Dụng)",
+                "explanation": "Thông (通): Dùng (Dụng) đường đi (Sước) để thông thương qua lại."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "熱心[な]",
+            "hiragana": "ねっしん[な]",
+            "hanviet": "NHIỆT TÂM",
+            "meaning": "Nhiệt tình",
+            "radical_analysis": {
+                "radical": "火 (Hỏa), 心 (Tâm)",
+                "explanation": "Nhiệt (熱): Trồng cây (Thế) trên đất (Hoàn) đốt lửa (Hỏa). Tâm (心): Tim. -> Tấm lòng nóng bỏng nhiệt huyết."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "偉い",
+            "hiragana": "えらい",
+            "hanviet": "VĨ",
+            "meaning": "Vĩ đại, giỏi, siêu",
+            "radical_analysis": {
+                "radical": "亻 (Nhân), 韋 (Vi)",
+                "explanation": "Vĩ (偉): Người (Nhân) làm những việc khác biệt (Vi) là người vĩ đại."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "景色",
+            "hiragana": "けしき",
+            "hanviet": "CẢNH SẮC",
+            "meaning": "Phong cảnh",
+            "radical_analysis": {
+                "radical": "日 (Nhật), 京 (Kinh)",
+                "explanation": "Cảnh (景): Mặt trời (Nhật) chiếu sáng kinh thành (Kinh). Sắc (色): Màu sắc."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "美容院",
+            "hiragana": "びよういん",
+            "hanviet": "MỸ DUNG VIỆN",
+            "meaning": "Hiệu làm đẹp",
+            "radical_analysis": {
+                "radical": "羊 (Dương), 大 (Đại)",
+                "explanation": "Mỹ (美): Con dê (Dương) to (Đại) thì đẹp. Dung (容): Chứa đựng (trong nhà). Viện (院): Tòa nhà."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "台所",
+            "hiragana": "だいどころ",
+            "hanviet": "ĐÀI SỞ",
+            "meaning": "Nhà bếp",
+            "radical_analysis": {
+                "radical": "口 (Khẩu), 戶 (Hộ)",
+                "explanation": "Đài (台): Cái bệ cao. Sở (所): Nơi chốn có cánh cửa (Hộ)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "経験",
+            "hiragana": "けいけん",
+            "hanviet": "KINH NGHIỆM",
+            "meaning": "Kinh nghiệm",
+            "radical_analysis": {
+                "radical": "糸 (Mịch), 馬 (Mã)",
+                "explanation": "Kinh (経): Sợi chỉ (Mịch) kinh qua thánh thần. Nghiệm (験): Con ngựa (Mã) được kiểm nghiệm (Thiêm) sức khỏe."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "力",
+            "hiragana": "ちから",
+            "hanviet": "LỰC",
+            "meaning": "Sức mạnh",
+            "radical_analysis": {
+                "radical": "力 (Lực)",
+                "explanation": "Lực (力): Hình cánh tay đang gồng cơ bắp."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "人気",
+            "hiragana": "にんき",
+            "hanviet": "NHÂN KHÍ",
+            "meaning": "Sự hâm mộ, được yêu thích",
+            "radical_analysis": {
+                "radical": "人 (Nhân), 气 (Khí)",
+                "explanation": "Nhân (人): Người. Khí (気): Khí chất. -> Người có khí chất thì được hâm mộ."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "形",
+            "hiragana": "かたち",
+            "hanviet": "HÌNH",
+            "meaning": "Hình dạng",
+            "radical_analysis": {
+                "radical": "彡 (Sam)",
+                "explanation": "Hình (形): Hai cái sam (彡) tạo nên hình dáng của cái khung (Khai)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "色",
+            "hiragana": "いろ",
+            "hanviet": "SẮC",
+            "meaning": "Màu sắc",
+            "radical_analysis": {
+                "radical": "色 (Sắc)",
+                "explanation": "Sắc (色): Màu sắc."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "味",
+            "hiragana": "あじ",
+            "hanviet": "VỊ",
+            "meaning": "Vị",
+            "radical_analysis": {
+                "radical": "口 (Khẩu), 未 (Vị)",
+                "explanation": "Vị (味): Miệng (Khẩu) nếm mùi vị của tương lai (Vị - Mùi)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "品物",
+            "hiragana": "しなもの",
+            "hanviet": "PHẨM VẬT",
+            "meaning": "Hàng hóa",
+            "radical_analysis": {
+                "radical": "口 (Khẩu), 牛 (Ngưu)",
+                "explanation": "Phẩm (品): Ba cái miệng (Khẩu) đánh giá sản phẩm. Vật (物): Con bò (Ngưu) là vật chớ (Vật) động vào."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "値段",
+            "hiragana": "ねだん",
+            "hanviet": "TRỊ ĐOẠN",
+            "meaning": "Giá cả",
+            "radical_analysis": {
+                "radical": "人 (Nhân), 直 (Trực)",
+                "explanation": "Trị (値): Người (Nhân) đứng thẳng (Trực) định giá trị. Đoạn (段): Giai đoạn."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "給料",
+            "hiragana": "きゅうりょう",
+            "hanviet": "CẤP LIỆU",
+            "meaning": "Lương",
+            "radical_analysis": {
+                "radical": "糸 (Mịch), 米 (Mễ)",
+                "explanation": "Cấp (給): Sợi chỉ (Mịch) hợp (Hợp) lại để cung cấp. Liệu (料): Gạo (Mễ) đong bằng đấu (Đẩu) là nguyên liệu."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "番組",
+            "hiragana": "ばんぐみ",
+            "hanviet": "PHIÊN TỔ",
+            "meaning": "Chương trình (TV)",
+            "radical_analysis": {
+                "radical": "田 (Điền), 糸 (Mịch)",
+                "explanation": "Phiên (番): Lần lượt canh giữ ruộng (Điền). Tổ (組): Sợi chỉ (Mịch) dùng để tổ chức (Thả) kết nối."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "歌手",
+            "hiragana": "かしゅ",
+            "hanviet": "CA THỦ",
+            "meaning": "Ca sĩ",
+            "radical_analysis": {
+                "radical": "欠 (Khiếm), 扌 (Thủ)",
+                "explanation": "Ca (歌): Hai chữ Khả (Khả năng) cộng với thiếu (Khiếm) là hát. Thủ (手): Tay/Người giỏi nghề."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "小説",
+            "hiragana": "しょうせつ",
+            "hanviet": "TIỂU THUYẾT",
+            "meaning": "Tiểu thuyết",
+            "radical_analysis": {
+                "radical": "小 (Tiểu), 言 (Ngôn)",
+                "explanation": "Tiểu (小): Nhỏ. Thuyết (説): Dùng lời (Ngôn) để giải thích/kể chuyện vui (Duyệt)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "小説家",
+            "hiragana": "しょうせつか",
+            "hanviet": "TIỂU THUYẾT GIA",
+            "meaning": "Nhà văn, tiểu thuyết gia",
+            "radical_analysis": {
+                "radical": "家 (Gia)",
+                "explanation": "Gia (家): Chuyên gia."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "～家",
+            "hiragana": "～か",
+            "hanviet": "GIA",
+            "meaning": "Nhà ~ (chuyên môn)",
+            "radical_analysis": {
+                "radical": "宀 (Miên), 豕 (Thỉ)",
+                "explanation": "Gia (家): Con lợn dưới mái nhà."
+            },
+            "type": "Hậu tố"
+        },
+        {
+            "kanji": "～機",
+            "hiragana": "～き",
+            "hanviet": "CƠ",
+            "meaning": "Máy ~",
+            "radical_analysis": {
+                "radical": "木 (Mộc)",
+                "explanation": "Cơ (機): Máy móc làm bằng gỗ (Mộc) rất tinh vi (Kỷ)."
+            },
+            "type": "Hậu tố"
+        },
+        {
+            "kanji": "息子",
+            "hiragana": "むすこ",
+            "hanviet": "TỨC TỬ",
+            "meaning": "Con trai (mình)",
+            "radical_analysis": {
+                "radical": "心 (Tâm), 子 (Tử)",
+                "explanation": "Tức (息): Hơi thở từ tim (Tâm) lên mũi (Tự). Tử (子): Con."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "娘",
+            "hiragana": "むすめ",
+            "hanviet": "NƯƠNG",
+            "meaning": "Con gái (mình)",
+            "radical_analysis": {
+                "radical": "女 (Nữ), 良 (Lương)",
+                "explanation": "Nương (娘): Người con gái (Nữ) lương thiện (Lương)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "自分",
+            "hiragana": "じぶん",
+            "hanviet": "TỰ PHÂN",
+            "meaning": "Mình, bản thân",
+            "radical_analysis": {
+                "radical": "自 (Tự), 分 (Phân)",
+                "explanation": "Tự (自): Bản thân. Phân (分): Phần của mình."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "将来",
+            "hiragana": "しょうらい",
+            "hanviet": "TƯƠNG LAI",
+            "meaning": "Tương lai",
+            "radical_analysis": {
+                "radical": "寸 (Thốn), 木 (Mộc)",
+                "explanation": "Tương (将): Tướng cầm thịt. Lai (来): Cây (Mộc) chưa đến mùa."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "実は",
+            "hiragana": "じつは",
+            "hanviet": "THỰC",
+            "meaning": "Thực ra",
+            "radical_analysis": {
+                "radical": "宀 (Miên)",
+                "explanation": "Thực (実): Trong nhà (Miên) có chồng tiền (Quán) là giàu thực sự."
+            },
+            "type": "Liên từ"
+        },
+        {
+            "kanji": "会話",
+            "hiragana": "かいわ",
+            "hanviet": "HỘI THOẠI",
+            "meaning": "Hội thoại",
+            "radical_analysis": {
+                "radical": "言 (Ngôn), 舌 (Thiệt)",
+                "explanation": "Hội (会): Gặp gỡ. Thoại (話): Lời nói (Ngôn) từ cái lưỡi (Thiệt)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "お知らせ",
+            "hiragana": "おしらせ",
+            "hanviet": "TRI",
+            "meaning": "Thông báo",
+            "radical_analysis": {
+                "radical": "矢 (Thí), 口 (Khẩu)",
+                "explanation": "Tri (知): Mũi tên (Thí) bắn trúng mồm (Khẩu) thì mới biết (Tri)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "参加します",
+            "hiragana": "さんかします",
+            "hanviet": "THAM GIA",
+            "meaning": "Tham gia",
+            "radical_analysis": {
+                "radical": "ム (Khư), 力 (Lực)",
+                "explanation": "Tham (参): Mưu (Khư) to (Đại) tham gia (Sam). Gia (加): Dùng sức (Lực) của mồm (Khẩu)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "日にち",
+            "hiragana": "ひにち",
+            "hanviet": "NHẬT",
+            "meaning": "Ngày, thời gian",
+            "radical_analysis": {
+                "radical": "日 (Nhật)",
+                "explanation": "Nhật (日): Mặt trời, ngày."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "土",
+            "hiragana": "ど",
+            "hanviet": "THỔ",
+            "meaning": "Thứ bảy",
+            "radical_analysis": {
+                "radical": "土 (Thổ)",
+                "explanation": "Thổ (土): Đất."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "体育館",
+            "hiragana": "たいいくかん",
+            "hanviet": "THỂ DỤC QUÁN",
+            "meaning": "Nhà thi đấu thể thao",
+            "radical_analysis": {
+                "radical": "人 (Nhân), 月 (Nhục), 食 (Thực)",
+                "explanation": "Thể (体): Người (Nhân) là gốc (Bản). Dục (育): Con (Tử) cần thịt (Nhục) để nuôi dưỡng. Quán (館): Nơi ăn (Thực) của quan (Quan)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "無料",
+            "hiragana": "むりょう",
+            "hanviet": "VÔ LIỆU",
+            "meaning": "Miễn phí",
+            "radical_analysis": {
+                "radical": "火 (Hỏa)",
+                "explanation": "Vô (無): Không có (lửa đốt hết rồi). Liệu (料): Tiền nong/nguyên liệu."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "誘います",
+            "hiragana": "さそいます",
+            "hanviet": "DỤ",
+            "meaning": "Mời, rủ",
+            "radical_analysis": {
+                "radical": "言 (Ngôn), 秀 (Tú)",
+                "explanation": "Dụ (誘): Dùng lời nói (Ngôn) thanh tú (Tú) để dụ dỗ, mời mọc."
+            },
+            "type": "Động từ"
+        }
+    ]
+}
