@@ -1,0 +1,424 @@
+{
+    "lesson_id": 29,
+    "title": "Minna no Nihongo - Bài 29",
+    "vocab_list": [
+        {
+            "kanji": "開きます",
+            "hiragana": "あきます",
+            "hanviet": "KHAI",
+            "meaning": "Mở [cửa] (tự động từ)",
+            "radical_analysis": {
+                "radical": "門 (Môn), 廾 (Củng)",
+                "explanation": "Khai (開): Hai tay (廾) mở cánh cổng (門) ra."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "閉まります",
+            "hiragana": "しまります",
+            "hanviet": "BẾ",
+            "meaning": "Đóng [cửa] (tự động từ)",
+            "radical_analysis": {
+                "radical": "門 (Môn), オ (Tài)",
+                "explanation": "Bế (閉): Đóng cổng (門) lại để giữ nhân tài (オ) ở bên trong."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "消えます",
+            "hiragana": "きえます",
+            "hanviet": "TIÊU",
+            "meaning": "Tắt [điện] (tự động từ)",
+            "radical_analysis": {
+                "radical": "氵 (Thủy), 肖 (Tiêu)",
+                "explanation": "Tiêu (消): Dùng nước (Thủy) để làm tiêu tan (肖) đám lửa."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "壊れます",
+            "hiragana": "こわれます",
+            "hanviet": "HOẠI",
+            "meaning": "Hỏng [cái ghế]",
+            "radical_analysis": {
+                "radical": "土 (Thổ), 衣 (Y)",
+                "explanation": "Hoại (壊): Đất (Thổ) rơi vào mắt (Mục/Võng) làm hỏng quần áo (Y)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "割れます",
+            "hiragana": "われます",
+            "hanviet": "CÁT",
+            "meaning": "Vỡ [cái cốc]",
+            "radical_analysis": {
+                "radical": "害 (Hại), 刀 (Đao)",
+                "explanation": "Cát (割): Dùng dao (Đao) cắt gây hại (Hại) làm vỡ đồ."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "折れます",
+            "hiragana": "おれます",
+            "hanviet": "CHIẾT",
+            "meaning": "Gãy [cành cây]",
+            "radical_analysis": {
+                "radical": "扌 (Thủ), 斤 (Cân)",
+                "explanation": "Chiết (折): Dùng tay (Thủ) cầm cái rìu (Cân) bẻ gãy cành cây."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "破れます",
+            "hiragana": "やぶれます",
+            "hanviet": "PHÁ",
+            "meaning": "Rách [tờ giấy]",
+            "radical_analysis": {
+                "radical": "石 (Thạch), 皮 (Bì)",
+                "explanation": "Phá (破): Hòn đá (Thạch) làm rách lớp da (Bì)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "汚れます",
+            "hiragana": "よごれます",
+            "hanviet": "Ô",
+            "meaning": "Bẩn [quần áo]",
+            "radical_analysis": {
+                "radical": "氵 (Thủy), 亏 (Vu)",
+                "explanation": "Ô (汚): Nước (Thủy) bị ứ đọng (Vu) nên rất bẩn (Ô uế)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "付きます",
+            "hiragana": "つきます",
+            "hanviet": "PHÓ",
+            "meaning": "Dính, có [túi]",
+            "radical_analysis": {
+                "radical": "亻 (Nhân), 寸 (Thốn)",
+                "explanation": "Phó (付): Người (Nhân) đưa tay (Thốn) gắn/dính đồ vật vào."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "外れます",
+            "hiragana": "はずれます",
+            "hanviet": "NGOẠI",
+            "meaning": "Tuột, bung [cái cúc]",
+            "radical_analysis": {
+                "radical": "夕 (Tịch), 卜 (Bốc)",
+                "explanation": "Ngoại (外): Buổi tối (Tịch) đi ra ngoài xem bói (Bốc)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "止まります",
+            "hiragana": "とまります",
+            "hanviet": "CHỈ",
+            "meaning": "Dừng [xe]",
+            "radical_analysis": {
+                "radical": "止 (Chỉ)",
+                "explanation": "Chỉ (止): Hình bàn chân đang dừng lại."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "間違えます",
+            "hiragana": "まちがえます",
+            "hanviet": "GIAN VI",
+            "meaning": "Nhầm, sai",
+            "radical_analysis": {
+                "radical": "門 (Môn), 日 (Nhật)",
+                "explanation": "Gian (間): Mặt trời giữa cổng. Vi (違): Đi (Sước) trái ý (Vi) là sai lầm."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "落とします",
+            "hiragana": "おとします",
+            "hanviet": "LẠC",
+            "meaning": "Đánh rơi",
+            "radical_analysis": {
+                "radical": "艹 (Thảo), 氵 (Thủy), 各 (Các)",
+                "explanation": "Lạc (落): Cỏ (Thảo) rơi xuống nước (Thủy), mỗi người (Các) trôi dạt một nơi (Lạc trôi)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "掛かります",
+            "hiragana": "かかります",
+            "hanviet": "QUẢI",
+            "meaning": "Khóa [cửa]",
+            "radical_analysis": {
+                "radical": "扌 (Thủ), 卦 (Quái)",
+                "explanation": "Quải (掛): Tay (Thủ) treo quẻ bói (Quái) lên tường."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "取り替えます",
+            "hiragana": "とりかえます",
+            "hanviet": "THỦ THẾ",
+            "meaning": "Thay thế",
+            "radical_analysis": {
+                "radical": "扌 (Thủ), 替 (Thế)",
+                "explanation": "Thủ (取): Lấy. Thế (替): Hai ông chồng (Phu) nói chuyện (Viết) thay thế nhau."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "片づけます",
+            "hiragana": "かたづけます",
+            "hanviet": "PHIẾN",
+            "meaning": "Dọn dẹp",
+            "radical_analysis": {
+                "radical": "片 (Phiến)",
+                "explanation": "Phiến (片): Một nửa tấm gỗ bị tước ra."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "皿",
+            "hiragana": "さら",
+            "hanviet": "MÃNH",
+            "meaning": "Cái đĩa",
+            "radical_analysis": {
+                "radical": "皿 (Mãnh)",
+                "explanation": "Mãnh (皿): Hình cái đĩa lòng sâu đựng thức ăn."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "茶碗",
+            "hiragana": "ちゃわん",
+            "hanviet": "TRÀ OẢN",
+            "meaning": "Cái bát",
+            "radical_analysis": {
+                "radical": "艹 (Thảo), 石 (Thạch)",
+                "explanation": "Trà (茶): Cỏ, người, cây. Oản (碗): Bát đá (Thạch) cong cong (Uyển)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "袋",
+            "hiragana": "ふくろ",
+            "hanviet": "ĐẠI",
+            "meaning": "Cái túi",
+            "radical_analysis": {
+                "radical": "代 (Đại), 衣 (Y)",
+                "explanation": "Đại (袋): Vật thay thế (Đại) cho y phục (Y) dùng để đựng đồ."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "書類",
+            "hiragana": "しょるい",
+            "hanviet": "THƯ LOẠI",
+            "meaning": "Giấy tờ",
+            "radical_analysis": {
+                "radical": "聿 (Duật), 米 (Mễ)",
+                "explanation": "Thư (書): Viết. Loại (類): Gạo (Mễ) cho chó (Khuyển) ăn là một loại (Đầu) riêng."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "枝",
+            "hiragana": "えだ",
+            "hanviet": "CHI",
+            "meaning": "Cành cây",
+            "radical_analysis": {
+                "radical": "木 (Mộc), 支 (Chi)",
+                "explanation": "Chi (枝): Cây (Mộc) phân nhánh (Chi) ra các hướng."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "駅員",
+            "hiragana": "えきいん",
+            "hanviet": "DỊCH VIÊN",
+            "meaning": "Nhân viên nhà ga",
+            "radical_analysis": {
+                "radical": "馬 (Mã), 貝 (Bối)",
+                "explanation": "Dịch (駅): Trạm ngựa (Mã). Viên (員): Người miệng (Khẩu) kiếm tiền (Bối)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "交番",
+            "hiragana": "こうばん",
+            "hanviet": "GIAO PHIÊN",
+            "meaning": "Đồn cảnh sát",
+            "radical_analysis": {
+                "radical": "亠 (Đầu), 田 (Điền)",
+                "explanation": "Giao (交): Giao nhau, cắt nhau. Phiên (番): Thay phiên canh giữ ruộng (Điền)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "返事",
+            "hiragana": "へんじ",
+            "hanviet": "PHẢN SỰ",
+            "meaning": "Trả lời",
+            "radical_analysis": {
+                "radical": "⻌ (Sước), 亅 (Quyết)",
+                "explanation": "Phản (返): Đi (Sước) ngược lại (Phản). Sự (事): Sự việc."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "お先に",
+            "hiragana": "おさきに",
+            "hanviet": "TIÊN",
+            "meaning": "Trước (Mời về trước...)",
+            "radical_analysis": {
+                "radical": "儿 (Nhân)",
+                "explanation": "Tiên (先): Người (Nhân) đi trước chân (Thổ/Chi)."
+            },
+            "type": "Phó từ"
+        },
+        {
+            "kanji": "忘れ物",
+            "hiragana": "わすれもの",
+            "hanviet": "VONG VẬT",
+            "meaning": "Đồ bỏ quên",
+            "radical_analysis": {
+                "radical": "心 (Tâm), 牛 (Ngưu)",
+                "explanation": "Vong (忘): Chết (Vong) ở trong lòng (Tâm) là đã quên. Vật (物): Con bò."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "～側",
+            "hiragana": "～がわ",
+            "hanviet": "TRẮC",
+            "meaning": "Phía ~",
+            "radical_analysis": {
+                "radical": "亻 (Nhân), 則 (Tắc)",
+                "explanation": "Trắc (側): Người (Nhân) đứng cạnh quy tắc (Tắc) để đo lường phía bên."
+            },
+            "type": "Hậu tố"
+        },
+        {
+            "kanji": "～辺",
+            "hiragana": "～へん",
+            "hanviet": "BIÊN",
+            "meaning": "Vùng, chỗ ~",
+            "radical_analysis": {
+                "radical": "⻌ (Sước), 刀 (Đao)",
+                "explanation": "Biên (辺): Mang dao (Đao) đi (Sước) ra biên giới."
+            },
+            "type": "Hậu tố"
+        },
+        {
+            "kanji": "覚えて",
+            "hiragana": "おぼえて",
+            "hanviet": "GIÁC",
+            "meaning": "Nhớ",
+            "radical_analysis": {
+                "radical": "見 (Kiến)",
+                "explanation": "Giác (覚): Học (Học) và nhìn (Kiến) để ghi nhớ/giác ngộ."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "網棚",
+            "hiragana": "あみだな",
+            "hanviet": "VÕNG BẰNG",
+            "meaning": "Giá để hành lý",
+            "radical_analysis": {
+                "radical": "糸 (Mịch), 木 (Mộc)",
+                "explanation": "Võng (網): Lưới (Mịch). Bằng (棚): Giá gỗ (Mộc) bầu bạn (Bằng)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "確か",
+            "hiragana": "たしか",
+            "hanviet": "XÁC",
+            "meaning": "Chắc là",
+            "radical_analysis": {
+                "radical": "石 (Thạch)",
+                "explanation": "Xác (確): Hòn đá (Thạch) và con chim hạc (Hạc) trong nhà rất chắc chắn."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "地震",
+            "hiragana": "じしん",
+            "hanviet": "ĐỊA CHẤN",
+            "meaning": "Động đất",
+            "radical_analysis": {
+                "radical": "土 (Thổ), 雨 (Vũ)",
+                "explanation": "Địa (地): Đất. Chấn (震): Mưa (Vũ) và Thần (Thần) sấm sét làm rung chuyển."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "壁",
+            "hiragana": "かべ",
+            "hanviet": "BÍCH",
+            "meaning": "Tường",
+            "radical_analysis": {
+                "radical": "土 (Thổ)",
+                "explanation": "Bích (壁): Vị vua (Tích) ngồi cai trị (Tân) trên vùng đất (Thổ) có tường bao."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "針",
+            "hiragana": "はり",
+            "hanviet": "CHÂM",
+            "meaning": "Kim đồng hồ",
+            "radical_analysis": {
+                "radical": "金 (Kim), 十 (Thập)",
+                "explanation": "Châm (針): Cây kim làm bằng kim loại (Kim) hình chữ thập (Thập)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "指します",
+            "hiragana": "さします",
+            "hanviet": "CHỈ",
+            "meaning": "Chỉ",
+            "radical_analysis": {
+                "radical": "扌 (Thủ), 旨 (Chỉ)",
+                "explanation": "Chỉ (指): Ngón tay (Thủ) chỉ vào ý chỉ (Chỉ - ngon)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "倒れます",
+            "hiragana": "たおれます",
+            "hanviet": "ĐẢO",
+            "meaning": "Đổ",
+            "radical_analysis": {
+                "radical": "亻 (Nhân), 到 (Đáo)",
+                "explanation": "Đảo (倒): Người (Nhân) đi đến (Đáo) xô đổ vật gì đó."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "西",
+            "hiragana": "にし",
+            "hanviet": "TÂY",
+            "meaning": "Phía tây",
+            "radical_analysis": {
+                "radical": "西 (Tây)",
+                "explanation": "Tây (西): Mặt trời lặn hướng Tây, chim về tổ."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "燃えます",
+            "hiragana": "もえます",
+            "hanviet": "NHIÊN",
+            "meaning": "Cháy",
+            "radical_analysis": {
+                "radical": "火 (Hỏa)",
+                "explanation": "Nhiên (燃): Lửa (Hỏa) đốt cháy thịt (Nhục/Nguyệt) chó (Khuyển)."
+            },
+            "type": "Động từ"
+        }
+    ]
+}
