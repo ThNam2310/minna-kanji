@@ -1,0 +1,413 @@
+{
+    "lesson_id": 30,
+    "title": "Minna no Nihongo - Bài 30",
+    "vocab_list": [
+        {
+            "kanji": "貼ります",
+            "hiragana": "はります",
+            "hanviet": "THIẾP",
+            "meaning": "Dán",
+            "radical_analysis": {
+                "radical": "貝 (Bối), 占 (Chiếm)",
+                "explanation": "Thiếp (貼): Dùng tiền (Bối) dán lên để chiếm (Chiếm) chỗ."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "掛けます",
+            "hiragana": "かけます",
+            "hanviet": "QUẢI",
+            "meaning": "Treo",
+            "radical_analysis": {
+                "radical": "扌 (Thủ), 卦 (Quái)",
+                "explanation": "Quải (掛): Tay (Thủ) treo quẻ bói (Quái) lên tường."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "飾ります",
+            "hiragana": "かざります",
+            "hanviet": "SỨC",
+            "meaning": "Trang trí",
+            "radical_analysis": {
+                "radical": "食 (Thực), 巾 (Cân)",
+                "explanation": "Sức (飾): Ăn (Thực) xong dùng khăn (Cân) lau dọn để trang trí nhà cửa."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "並べます",
+            "hiragana": "ならべます",
+            "hanviet": "TỊNH",
+            "meaning": "Sắp xếp, bày",
+            "radical_analysis": {
+                "radical": "立 (Lập)",
+                "explanation": "Tịnh (並): Hai người đứng (Lập) cạnh nhau là sắp xếp hàng ngũ."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "植えます",
+            "hiragana": "うえます",
+            "hanviet": "THỰC",
+            "meaning": "Trồng [cây]",
+            "radical_analysis": {
+                "radical": "木 (Mộc), 直 (Trực)",
+                "explanation": "Thực (植): Trồng cây (Mộc) cho thẳng (Trực)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "戻します",
+            "hiragana": "もどします",
+            "hanviet": "LỆ",
+            "meaning": "Để lại, trả lại",
+            "radical_analysis": {
+                "radical": "戶 (Hộ), 大 (Đại)",
+                "explanation": "Lệ (戻): Quay trở lại cánh cửa (Hộ) to lớn (Đại)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "まとめます",
+            "hiragana": "まとめます",
+            "hanviet": "-",
+            "meaning": "Thu dọn, tóm tắt",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "片づけます",
+            "hiragana": "かたづけます",
+            "hanviet": "PHIẾN",
+            "meaning": "Dọn dẹp",
+            "radical_analysis": {
+                "radical": "片 (Phiến)",
+                "explanation": "Phiến (片): Dọn dẹp từng mảnh nhỏ."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "しまいます",
+            "hiragana": "しまいます",
+            "hanviet": "-",
+            "meaning": "Cất",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "決めます",
+            "hiragana": "きめます",
+            "hanviet": "QUYẾT",
+            "meaning": "Quyết định",
+            "radical_analysis": {
+                "radical": "氵 (Thủy), 夬 (Quái)",
+                "explanation": "Quyết (決): Quyết định khơi dòng nước (Thủy) chảy qua chỗ lõm (Quái)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "予習します",
+            "hiragana": "よしゅうします",
+            "hanviet": "DỰ TẬP",
+            "meaning": "Chuẩn bị bài",
+            "radical_analysis": {
+                "radical": "予 (Dự), 羽 (Vũ)",
+                "explanation": "Dự (予): Trước. Tập (習): Chim non tập bay (Vũ). -> Học trước."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "復習します",
+            "hiragana": "ふくしゅうします",
+            "hanviet": "PHỤC TẬP",
+            "meaning": "Ôn tập",
+            "radical_analysis": {
+                "radical": "彳 (Xích), 習 (Tập)",
+                "explanation": "Phục (復): Đi (Xích) lại con đường cũ. Tập (習): Học. -> Học lại bài cũ."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "授業",
+            "hiragana": "じゅぎょう",
+            "hanviet": "THỤ NGHIỆP",
+            "meaning": "Giờ học",
+            "radical_analysis": {
+                "radical": "扌 (Thủ), 業 (Nghiệp)",
+                "explanation": "Thụ (授): Tay (Thủ) trao nhận. Nghiệp (業): Nghề nghiệp. -> Truyền thụ nghề nghiệp."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "講義",
+            "hiragana": "こうぎ",
+            "hanviet": "GIẢNG NGHĨA",
+            "meaning": "Bài giảng",
+            "radical_analysis": {
+                "radical": "言 (Ngôn), 義 (Nghĩa)",
+                "explanation": "Giảng (講): Dùng lời (Ngôn) cấu tạo bài giảng. Nghĩa (義): Con dê (Dương) của tôi (Ngã) là điều có ý nghĩa."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "予定",
+            "hiragana": "よてい",
+            "hanviet": "DỰ ĐỊNH",
+            "meaning": "Dự định",
+            "radical_analysis": {
+                "radical": "予 (Dự), 宀 (Miên)",
+                "explanation": "Dự (予): Trước. Định (定): Sửa soạn nhà cửa (Miên) cho ổn định."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "お知らせ",
+            "hiragana": "おしらせ",
+            "hanviet": "TRI",
+            "meaning": "Thông báo",
+            "radical_analysis": {
+                "radical": "矢 (Thí), 口 (Khẩu)",
+                "explanation": "Tri (知): Mũi tên (Thí) bắn trúng miệng (Khẩu) mới biết (Tri)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "予定表",
+            "hiragana": "よていひょう",
+            "hanviet": "DỰ ĐỊNH BIỂU",
+            "meaning": "Lịch làm việc",
+            "radical_analysis": {
+                "radical": "衣 (Y)",
+                "explanation": "Biểu (表): Chiếc áo (Y) mặc bên ngoài để biểu thị."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "ごみ箱",
+            "hiragana": "ごみばこ",
+            "hanviet": "TƯƠNG",
+            "meaning": "Thùng rác",
+            "radical_analysis": {
+                "radical": "竹 (Trúc), 目 (Mục)",
+                "explanation": "Tương (箱): Cái hộp/thùng làm bằng tre (Trúc) có mắt (Mục) cây."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "人形",
+            "hiragana": "にんぎょう",
+            "hanviet": "NHÂN HÌNH",
+            "meaning": "Búp bê",
+            "radical_analysis": {
+                "radical": "人 (Nhân), 彡 (Sam)",
+                "explanation": "Nhân (人): Người. Hình (形): Hình dáng (Sam)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "花瓶",
+            "hiragana": "かびん",
+            "hanviet": "HOA BÌNH",
+            "meaning": "Bình hoa",
+            "radical_analysis": {
+                "radical": "艹 (Thảo), 瓦 (Ngói)",
+                "explanation": "Hoa (花): Bông hoa. Bình (瓶): Lọ gốm (Ngói) ghép lại (Tinh)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "鏡",
+            "hiragana": "かがみ",
+            "hanviet": "KÍNH",
+            "meaning": "Gương",
+            "radical_analysis": {
+                "radical": "金 (Kim), 立 (Lập)",
+                "explanation": "Kính (鏡): Tấm kim loại (Kim) đứng (Lập) phản chiếu cảnh vật (Cảnh)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "引き出し",
+            "hiragana": "ひきだし",
+            "hanviet": "DẪN XUẤT",
+            "meaning": "Ngăn kéo",
+            "radical_analysis": {
+                "radical": "弓 (Cung), 凵 (Khảm)",
+                "explanation": "Dẫn (引): Cây cung (Cung) dẫn lối. Xuất (出): Ra ngoài. -> Kéo ra."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "玄関",
+            "hiragana": "げんかん",
+            "hanviet": "HUYỀN QUAN",
+            "meaning": "Lối vào nhà, sảnh vào",
+            "radical_analysis": {
+                "radical": "玄 (Huyền), 門 (Môn)",
+                "explanation": "Huyền (玄): Huyền bí. Quan (関): Cổng (Môn) có then cài (Thiên). -> Cửa ngõ quan trọng."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "廊下",
+            "hiragana": "ろうか",
+            "hanviet": "LANG HẠ",
+            "meaning": "Hành lang",
+            "radical_analysis": {
+                "radical": "广 (Nghiễm), 一 (Nhất)",
+                "explanation": "Lang (廊): Mái nhà (Nghiễm) của chàng trai (Lang). Hạ (下): Bên dưới."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "壁",
+            "hiragana": "かべ",
+            "hanviet": "BÍCH",
+            "meaning": "Tường",
+            "radical_analysis": {
+                "radical": "土 (Thổ)",
+                "explanation": "Bích (壁): Bức tường đất (Thổ) của vua (Tích) ngồi cai trị (Tân)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "池",
+            "hiragana": "いけ",
+            "hanviet": "TRÌ",
+            "meaning": "Ao, hồ",
+            "radical_analysis": {
+                "radical": "氵 (Thủy), 也 (Dã)",
+                "explanation": "Trì (池): Vùng đất (Dã) có nước (Thủy) đọng là cái ao."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "元の所",
+            "hiragana": "もとのところ",
+            "hanviet": "NGUYÊN SỞ",
+            "meaning": "Chỗ cũ",
+            "radical_analysis": {
+                "radical": "二 (Nhị), 户 (Hộ)",
+                "explanation": "Nguyên (元): Hai (Nhị) người (Nhi) là gốc. Sở (所): Nơi chốn."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "周り",
+            "hiragana": "まわり",
+            "hanviet": "CHU",
+            "meaning": "Xung quanh",
+            "radical_analysis": {
+                "radical": "囗 (Vi), 土 (Thổ)",
+                "explanation": "Chu (周): Dùng đất (Thổ) và miệng (Khẩu) bao quanh (Vi)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "真ん中",
+            "hiragana": "まんなか",
+            "hanviet": "CHÂN TRUNG",
+            "meaning": "Chính giữa",
+            "radical_analysis": {
+                "radical": "目 (Mục), 丨 (Cổn)",
+                "explanation": "Chân (真): Mười (Thập) con mắt (Mục) nhìn vào sự thật. Trung (中): Ở giữa."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "隅",
+            "hiragana": "すみ",
+            "hanviet": "NGUNG",
+            "meaning": "Góc",
+            "radical_analysis": {
+                "radical": "阝 (Phụ), 田 (Điền)",
+                "explanation": "Ngung (隅): Góc khuất của gò đất (Phụ) và ruộng (Điền) nơi con khỉ (Ngung) ngồi."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "非常袋",
+            "hiragana": "ひじょうぶくろ",
+            "hanviet": "PHI THƯỜNG ĐẠI",
+            "meaning": "Túi khẩn cấp",
+            "radical_analysis": {
+                "radical": "非 (Phi), 巾 (Cân)",
+                "explanation": "Phi (非): Không. Thường (常): Bình thường. Đại (袋): Cái túi thay thế (Đại) y phục (Y)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "生活します",
+            "hiragana": "せいかつします",
+            "hanviet": "SINH HOẠT",
+            "meaning": "Sinh hoạt, sống",
+            "radical_analysis": {
+                "radical": "生 (Sinh), 氵 (Thủy)",
+                "explanation": "Sinh (生): Sống. Hoạt (活): Nước (Thủy) chảy qua lưỡi (Thiệt) là cuộc sống năng động."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "懐中電灯",
+            "hiragana": "かいちゅうでんとう",
+            "hanviet": "HOÀI TRUNG ĐIỆN ĐĂNG",
+            "meaning": "Đèn pin",
+            "radical_analysis": {
+                "radical": "心 (Tâm), 火 (Hỏa)",
+                "explanation": "Hoài (懐): Nhớ nhung trong tim. Đăng (灯): Lửa (Hỏa) cây đèn (Đinh)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "丸い",
+            "hiragana": "まるい",
+            "hanviet": "HOÀN",
+            "meaning": "Tròn",
+            "radical_analysis": {
+                "radical": "丶 (Chủ)",
+                "explanation": "Hoàn (丸): Số chín (Cửu) thêm dấu chấm là viên thuốc tròn."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "夢",
+            "hiragana": "ゆめ",
+            "hanviet": "MỘNG",
+            "meaning": "Giấc mơ",
+            "radical_analysis": {
+                "radical": "夕 (Tịch)",
+                "explanation": "Mộng (夢): Trong buổi tối (Tịch), nằm trên cỏ (Thảo) che mắt (Mục) mơ mộng."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "嫌[な]",
+            "hiragana": "いや[な]",
+            "hanviet": "HIỀM",
+            "meaning": "Chán, ghét, không thích",
+            "radical_analysis": {
+                "radical": "女 (Nữ), 兼 (Kiêm)",
+                "explanation": "Hiềm (嫌): Người phụ nữ (Nữ) kiêm nhiệm (Kiêm) nhiều việc nên chán ghét/hiềm khích."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "目が覚めます",
+            "hiragana": "めがさめます",
+            "hanviet": "MỤC GIÁC",
+            "meaning": "Tỉnh giấc, mở mắt",
+            "radical_analysis": {
+                "radical": "目 (Mục), 見 (Kiến)",
+                "explanation": "Mục (目): Mắt. Giác (覚): Học (Học) và nhìn (Kiến) để giác ngộ/tỉnh thức."
+            },
+            "type": "Động từ"
+        }
+    ]
+}
