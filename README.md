@@ -89,5 +89,5 @@ Xem file `LICENSE` để biết thêm chi tiết.
 ---
 
 ### 👤 Tác giả
-**[ThNam2310](https://github.com/ThNam2310)**  
+**[thanhnam23-dev](https://github.com/thanhnam23-dev)**  
 Fullstack Developer & Japanese Learner
