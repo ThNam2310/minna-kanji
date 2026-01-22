@@ -1,0 +1,336 @@
+{
+    "lesson_id": 31,
+    "title": "Minna no Nihongo - Bài 31",
+    "vocab_list": [
+        {
+            "kanji": "続けます",
+            "hiragana": "つづけます",
+            "hanviet": "TỤC",
+            "meaning": "Tiếp tục",
+            "radical_analysis": {
+                "radical": "糸 (Mịch), 売 (Mại)",
+                "explanation": "Tục (続): Dùng sợi chỉ (Mịch) buộc hàng hóa đem bán (Mại) liên tục."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "見つけます",
+            "hiragana": "みえます",
+            "hanviet": "KIẾN",
+            "meaning": "Tìm thấy",
+            "radical_analysis": {
+                "radical": "見 (Kiến)",
+                "explanation": "Kiến (見): Mắt nhìn thấy."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "取ります",
+            "hiragana": "とります",
+            "hanviet": "THỦ",
+            "meaning": "Xin [nghỉ]",
+            "radical_analysis": {
+                "radical": "耳 (Nhĩ), 又 (Hựu)",
+                "explanation": "Thủ (取): Tay (Hựu) nắm lấy tai (Nhĩ) để lấy/đạt được."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "受けます",
+            "hiragana": "うけます",
+            "hanviet": "THỤ",
+            "meaning": "Dự [thi]",
+            "radical_analysis": {
+                "radical": "爪 (Trảo), 又 (Hựu)",
+                "explanation": "Thụ (受): Hai tay (Trảo, Hựu) trao nhận đồ vật dưới mái che (Mịch)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "申し込みます",
+            "hiragana": "もうしこみます",
+            "hanviet": "THÂN VÀO",
+            "meaning": "Đăng ký",
+            "radical_analysis": {
+                "radical": "田 (Điền), ⻌ (Sước)",
+                "explanation": "Thân (申): Cái lưỡi nói ra sự thật. Vào (込): Đi (Sước) vào trong (Nhập). -> Nói tên để được vào danh sách."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "休憩します",
+            "hiragana": "きゅうけいします",
+            "hanviet": "HƯU KHẾ",
+            "meaning": "Nghỉ giải lao",
+            "radical_analysis": {
+                "radical": "休 (Hưu), 憩 (Khế)",
+                "explanation": "Hưu (休): Người tựa vào cây. Khế (憩): Tim (Tâm) và lưỡi (Thiệt) tự (Tự) nghỉ ngơi."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "連休",
+            "hiragana": "れんきゅう",
+            "hanviet": "LIÊN HƯU",
+            "meaning": "Ngày nghỉ liên tục",
+            "radical_analysis": {
+                "radical": "⻌ (Sước), 車 (Xa)",
+                "explanation": "Liên (連): Xe (Xa) nối đuôi nhau chạy (Sước) liên tục. Hưu (休): Nghỉ ngơi."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "作文",
+            "hiragana": "さくぶん",
+            "hanviet": "TÁC VĂN",
+            "meaning": "Bài tập làm văn",
+            "radical_analysis": {
+                "radical": "亻 (Nhân), 文 (Văn)",
+                "explanation": "Tác (作): Người làm việc. Văn (文): Văn chương."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "発表",
+            "hiragana": "はっぴょう",
+            "hanviet": "PHÁT BIỂU",
+            "meaning": "Phát biểu, công bố",
+            "radical_analysis": {
+                "radical": "癶 (Bát), 衣 (Y)",
+                "explanation": "Phát (発): Bắn tên đi. Biểu (表): Chiếc áo (Y) khoác ngoài để biểu thị."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "展覧会",
+            "hiragana": "てんらんかい",
+            "hanviet": "TRIỂN LÃM HỘI",
+            "meaning": "Cuộc triển lãm",
+            "radical_analysis": {
+                "radical": "尸 (Thi), 見 (Kiến)",
+                "explanation": "Triển (展): Mở rộng áo. Lãm (覧): Quan lại (Thần) mở mắt (Kiến) xem xét (Lãm)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "結婚式",
+            "hiragana": "けっこんしき",
+            "hanviet": "KẾT HÔN THỨC",
+            "meaning": "Lễ cưới",
+            "radical_analysis": {
+                "radical": "糸 (Mịch), 女 (Nữ)",
+                "explanation": "Kết (結): Nối sợi tơ. Hôn (婚): Người nữ (Nữ) cưới vào buổi hoàng hôn (Hôn). Thức (式): Nghi thức."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "葬式",
+            "hiragana": "そうしき",
+            "hanviet": "TÁNG THỨC",
+            "meaning": "Đám tang",
+            "radical_analysis": {
+                "radical": "艹 (Thảo), 死 (Tử)",
+                "explanation": "Táng (葬): Chôn người chết (Tử) dưới cỏ (Thảo), chắp tay (Củng) cầu nguyện."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "本社",
+            "hiragana": "ほんしゃ",
+            "hanviet": "BẢN XÃ",
+            "meaning": "Trụ sở chính",
+            "radical_analysis": {
+                "radical": "木 (Mộc), 示 (Thị)",
+                "explanation": "Bản (本): Gốc cây (Mộc). Xã (社): Nơi thờ thần đất."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "支店",
+            "hiragana": "してん",
+            "hanviet": "CHI ĐIẾM",
+            "meaning": "Chi nhánh",
+            "radical_analysis": {
+                "radical": "支 (Chi), 广 (Nghiễm)",
+                "explanation": "Chi (Chi): Cành cây/Chi nhánh. Điếm (店): Cửa hàng dưới mái nhà (Nghiễm)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "教会",
+            "hiragana": "きょうかい",
+            "hanviet": "GIÁO HỘI",
+            "meaning": "Nhà thờ",
+            "radical_analysis": {
+                "radical": "攴 (Phộc), 会 (Hội)",
+                "explanation": "Giáo (教): Dạy dỗ. Hội (会): Tụ họp. -> Nơi tụ họp nghe giảng đạo."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "大学院",
+            "hiragana": "だいがくいん",
+            "hanviet": "ĐẠI HỌC VIỆN",
+            "meaning": "Cao học",
+            "radical_analysis": {
+                "radical": "大 (Đại), 子 (Tử), 阝 (Phụ)",
+                "explanation": "Viện (院): Tòa nhà có tường bao (Phụ) hoàn hảo (Hoàn)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "動物園",
+            "hiragana": "どうぶつえん",
+            "hanviet": "ĐỘNG VẬT VIÊN",
+            "meaning": "Sở thú",
+            "radical_analysis": {
+                "radical": "力 (Lực), 牛 (Ngưu), 囗 (Vi)",
+                "explanation": "Động (動): Chuyển động. Vật (物): Con bò. Viên (園): Vườn có hàng rào (Vi)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "温泉",
+            "hiragana": "おんせん",
+            "hanviet": "ÔN TUYỀN",
+            "meaning": "Suối nước nóng",
+            "radical_analysis": {
+                "radical": "氵 (Thủy), 日 (Nhật)",
+                "explanation": "Ôn (温): Nước (Thủy) phơi nắng (Nhật) trong đĩa (Mạn) thì ấm. Tuyền (泉): Dòng suối trắng (Bạch) chảy."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "帰り",
+            "hiragana": "かえり",
+            "hanviet": "QUY",
+            "meaning": "Chiều về",
+            "radical_analysis": {
+                "radical": "止 (Chỉ), 帚 (Trử)",
+                "explanation": "Quy (帰): Quay về (Chỉ) cầm cái chổi (Trử) quét nhà."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "お子さん",
+            "hiragana": "おこさん",
+            "hanviet": "TỬ",
+            "meaning": "Con (người khác)",
+            "radical_analysis": {
+                "radical": "子 (Tử)",
+                "explanation": "Tử (子): Hình đứa trẻ."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "～号",
+            "hiragana": "～ごう",
+            "hanviet": "HIỆU",
+            "meaning": "Số (hiệu) ~",
+            "radical_analysis": {
+                "radical": "口 (Khẩu)",
+                "explanation": "Hiệu (号): Miệng (Khẩu) hô hào số hiệu."
+            },
+            "type": "Hậu tố"
+        },
+        {
+            "kanji": "残ります",
+            "hiragana": "のこります",
+            "hanviet": "TÀN",
+            "meaning": "Ở lại, còn",
+            "radical_analysis": {
+                "radical": "歹 (Ngạt), 戈 (Qua)",
+                "explanation": "Tàn (残): Kẻ thù dùng mác (Qua) giết hại, chỉ còn lại xương tàn (Ngạt)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "入学試験",
+            "hiragana": "にゅうがくしけん",
+            "hanviet": "NHẬP HỌC THÍ NGHIỆM",
+            "meaning": "Kỳ thi đầu vào",
+            "radical_analysis": {
+                "radical": "入 (Nhập), 子 (Tử), 言 (Ngôn), 馬 (Mã)",
+                "explanation": "Nhập (入): Vào. Học (学): Học. Thí (試): Thi bằng lời nói (Ngôn) và cách thức (Thức). Nghiệm (験): Ngựa (Mã) được kiểm tra."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "村",
+            "hiragana": "むら",
+            "hanviet": "THÔN",
+            "meaning": "Làng",
+            "radical_analysis": {
+                "radical": "木 (Mộc), 寸 (Thốn)",
+                "explanation": "Thôn (村): Ngôi làng trồng cây (Mộc) có quy củ/pháp luật (Thốn)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "卒業します",
+            "hiragana": "そつぎょうします",
+            "hanviet": "TỐT NGHIỆP",
+            "meaning": "Tốt nghiệp",
+            "radical_analysis": {
+                "radical": "十 (Thập), 業 (Nghiệp)",
+                "explanation": "Tốt (卒): Mười (Thập) người (Nhân) lính cởi áo (Y) về quê (Tốt nghiệp khóa lính). Nghiệp (業): Nghề nghiệp."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "映画館",
+            "hiragana": "えいがかん",
+            "hanviet": "ÁNH HỌA QUÁN",
+            "meaning": "Rạp chiếu phim",
+            "radical_analysis": {
+                "radical": "日 (Nhật), 田 (Điền), 食 (Thực)",
+                "explanation": "Ánh (映): Mặt trời (Nhật) chiếu sáng trung ương (Ương). Họa (画): Bức tranh ruộng (Điền). Quán (館): Tòa nhà."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "嫌[な]",
+            "hiragana": "いや[な]",
+            "hanviet": "HIỀM",
+            "meaning": "Chán, ghét",
+            "radical_analysis": {
+                "radical": "女 (Nữ), 兼 (Kiêm)",
+                "explanation": "Hiềm (嫌): Phụ nữ (Nữ) kiêm nhiệm (Kiêm) nhiều việc nên sinh ra chán ghét."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "空",
+            "hiragana": "そら",
+            "hanviet": "KHÔNG",
+            "meaning": "Bầu trời",
+            "radical_analysis": {
+                "radical": "穴 (Huyệt), 工 (Công)",
+                "explanation": "Không (空): Đục cái hang (Huyệt) bằng sức thợ (Công) tạo ra khoảng không."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "閉じます",
+            "hiragana": "とじます",
+            "hanviet": "BẾ",
+            "meaning": "Nhắm [mắt], đóng [sách]",
+            "radical_analysis": {
+                "radical": "門 (Môn), オ (Tài)",
+                "explanation": "Bế (閉): Đóng cửa (Môn) lại giữ nhân tài (Tài) bên trong."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "都会",
+            "hiragana": "とかい",
+            "hanviet": "ĐÔ HỘI",
+            "meaning": "Thành phố",
+            "radical_analysis": {
+                "radical": "阝 (Phụ), 者 (Giả)",
+                "explanation": "Đô (都): Người (Giả) tụ tập ở vùng đất (Ấp/Phụ) tạo thành kinh đô."
+            },
+            "type": "Danh từ"
+        }
+    ]
+}
