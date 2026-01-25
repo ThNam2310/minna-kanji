@@ -1,0 +1,270 @@
+{
+    "lesson_id": 32,
+    "title": "Minna no Nihongo - Bài 32",
+    "vocab_list": [
+        {
+            "kanji": "運動します",
+            "hiragana": "うんどうします",
+            "hanviet": "VẬN ĐỘNG",
+            "meaning": "Vận động, tập thể dục",
+            "radical_analysis": {
+                "radical": "辶 (Sước), 重 (Trọng)",
+                "explanation": "Vận (運): Đi lại (Sước) mang vật nặng (Trọng). Động (動): Cử động."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "成功します",
+            "hiragana": "せいこうします",
+            "hanviet": "THÀNH CÔNG",
+            "meaning": "Thành công",
+            "radical_analysis": {
+                "radical": "戈 (Qua), 工 (Công)",
+                "explanation": "Thành (成): Dùng vũ khí (Qua) để hoàn thành việc. Công (功): Công sức."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "失敗します",
+            "hiragana": "しっぱいします",
+            "hanviet": "THẤT BẠI",
+            "meaning": "Thất bại, trượt [kỳ thi]",
+            "radical_analysis": {
+                "radical": "大 (Đại), 巾 (Cân)",
+                "explanation": "Thất (失): Mất mát. Bại (敗): Hỏng việc."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "合格します",
+            "hiragana": "ごうかくします",
+            "hanviet": "HỢP CÁCH",
+            "meaning": "Đỗ [kỳ thi]",
+            "radical_analysis": {
+                "radical": "口 (Khẩu), 木 (Mộc)",
+                "explanation": "Hợp (合): Ghép lại. Cách (格): Tiêu chuẩn."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "やみます",
+            "hiragana": "やみます",
+            "hanviet": "-",
+            "meaning": "Tạnh [mưa]",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "晴れます",
+            "hiragana": "はれます",
+            "hanviet": "TÌNH",
+            "meaning": "Quang đãng",
+            "radical_analysis": {
+                "radical": "日 (Nhật), 青 (Thanh)",
+                "explanation": "Trời trong xanh, mặt trời (Nhật) chiếu sáng."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "曇ります",
+            "hiragana": "くもります",
+            "hanviet": "ĐÀM",
+            "meaning": "Có mây",
+            "radical_analysis": {
+                "radical": "日 (Nhật), 云 (Vân)",
+                "explanation": "Mặt trời bị mây (Vân) che."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "続きます",
+            "hiragana": "つづきます",
+            "hanviet": "TỤC",
+            "meaning": "Kéo dài",
+            "radical_analysis": {
+                "radical": "糸 (Mịch), 売 (Mại)",
+                "explanation": "Sợi chỉ (Mịch) kéo dài liên tục."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "引きます",
+            "hiragana": "ひきます",
+            "hanviet": "DẪN",
+            "meaning": "Bị cấm",
+            "radical_analysis": {
+                "radical": "弓 (Cung)",
+                "explanation": "Kéo cung (Cung) về phía sau."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "冷やします",
+            "hiragana": "ひやします",
+            "hanviet": "LÃNH",
+            "meaning": "Làm mát, làm lạnh",
+            "radical_analysis": {
+                "radical": "冫 (Băng)",
+                "explanation": "Có băng (Băng) nên lạnh."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "込みます",
+            "hiragana": "こみます",
+            "hanviet": "NHẬP",
+            "meaning": "Đông [đường]",
+            "radical_analysis": {
+                "radical": "辶 (Sước)",
+                "explanation": "Người đi lại đông đúc."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "空きます",
+            "hiragana": "すきます",
+            "hanviet": "KHÔNG",
+            "meaning": "Vắng [đường]",
+            "radical_analysis": {
+                "radical": "穴 (Huyệt)",
+                "explanation": "Trống rỗng."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "出ます",
+            "hiragana": "でます",
+            "hanviet": "XUẤT",
+            "meaning": "Tham gia [trận đấu], dự [tiệc]",
+            "radical_analysis": {
+                "radical": "凵 (Khảm)",
+                "explanation": "Ra ngoài."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "無理をします",
+            "hiragana": "むりをします",
+            "hanviet": "VÔ LÝ",
+            "meaning": "Gắng sức",
+            "radical_analysis": {
+                "radical": "无 (Vô), 里 (Lý)",
+                "explanation": "Làm việc không hợp lý."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "十分[な]",
+            "hiragana": "じゅうぶん[な]",
+            "hanviet": "THẬP PHẦN",
+            "meaning": "Đủ",
+            "radical_analysis": {
+                "radical": "十 (Thập)",
+                "explanation": "Mười phần là đủ."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "おかしい",
+            "hiragana": "おかしい",
+            "hanviet": "-",
+            "meaning": "Kỳ lạ, thú vị",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "うるさい",
+            "hiragana": "うるさい",
+            "hanviet": "-",
+            "meaning": "Ồn ào",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "先生",
+            "hiragana": "せんせい",
+            "hanviet": "TIÊN SINH",
+            "meaning": "Bác sĩ",
+            "radical_analysis": {
+                "radical": "先 (Tiên), 生 (Sinh)",
+                "explanation": "Người sinh ra trước, người có kinh nghiệm."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "空",
+            "hiragana": "そら",
+            "hanviet": "KHÔNG",
+            "meaning": "Bầu trời",
+            "radical_analysis": {
+                "radical": "穴 (Huyệt)",
+                "explanation": "Khoảng trống trên cao."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "太陽",
+            "hiragana": "たいよう",
+            "hanviet": "THÁI DƯƠNG",
+            "meaning": "Mặt trời",
+            "radical_analysis": {
+                "radical": "大 (Đại), 日 (Nhật)",
+                "explanation": "Mặt trời to lớn."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "星",
+            "hiragana": "ほし",
+            "hanviet": "TINH",
+            "meaning": "Sao",
+            "radical_analysis": {
+                "radical": "日 (Nhật), 生 (Sinh)",
+                "explanation": "Ánh sáng trên trời."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "風",
+            "hiragana": "かぜ",
+            "hanviet": "PHONG",
+            "meaning": "Gió",
+            "radical_analysis": {
+                "radical": "几 (Kỷ)",
+                "explanation": "Luồng không khí chuyển động."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "南",
+            "hiragana": "みなみ",
+            "hanviet": "NAM",
+            "meaning": "Nam",
+            "radical_analysis": {
+                "radical": "十 (Thập)",
+                "explanation": "Phương nam."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "北",
+            "hiragana": "きた",
+            "hanviet": "BẮC",
+            "meaning": "Bắc",
+            "radical_analysis": {
+                "radical": "匕 (Chủy)",
+                "explanation": "Phương bắc."
+            },
+            "type": "Danh từ"
+        }
+    ]
+}

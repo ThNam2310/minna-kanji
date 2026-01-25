@@ -23,8 +23,8 @@
         <table class="table table-striped table-bordered">
             <thead class="table-dark">
                 <tr>
-                    <th style="width: 10%">Kanji</th>
                     <th style="width: 15%">Hiragana</th>
+                    <th style="width: 10%">Kanji</th>
                     <th style="width: 10%">Hán-Việt</th>
                     <th style="width: 25%">Nghĩa</th>
                     <th style="width: 30%">Phân tích bộ thủ</th>
@@ -34,8 +34,8 @@
             <tbody>
                 {% for item in vocab_list %}
                 <tr>
-                    <td class="kanji-cell text-center align-middle">{{ item.kanji }}</td>
                     <td class="hiragana-cell align-middle fw-bold">{{ item.hiragana }}</td>
+                    <td class="kanji-cell text-center align-middle">{{ item.kanji }}</td>
                     <td class="hanviet-cell align-middle">{{ item.hanviet }}</td>
                     <td class="meaning-cell align-middle">{{ item.meaning }}</td>
                     <td class="radical-cell align-middle">
