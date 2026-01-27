@@ -1,0 +1,556 @@
+{
+    "lesson_id": 33,
+    "title": "Minna no Nihongo - Bài 33",
+    "vocab_list": [
+        {
+            "kanji": "逃げます",
+            "hiragana": "にげます",
+            "hanviet": "ĐÀO",
+            "meaning": "Chạy trốn, tẩu thoát",
+            "radical_analysis": {
+                "radical": "⻌ (Sước), 兆 (Triệu)",
+                "explanation": "Đào (逃): Đi (Sước) chạy trốn xa hàng triệu (Triệu) dặm."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "騒ぎます",
+            "hiragana": "さわぎます",
+            "hanviet": "TAO",
+            "meaning": "Làm ồn, rùm beng",
+            "radical_analysis": {
+                "radical": "馬 (Mã), 蚤 (Tao)",
+                "explanation": "Tao (騒): Con ngựa (Mã) bị con bọ chét (Tao) cắn nên nhảy loạn lên làm ồn."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "諦めます",
+            "hiragana": "あきらめます",
+            "hanviet": "ĐẾ",
+            "meaning": "Từ bỏ, bỏ cuộc",
+            "radical_analysis": {
+                "radical": "言 (Ngôn), 帝 (Đế)",
+                "explanation": "Đế (諦): Lời (Ngôn) của vua (Đế) thì phải chấp nhận nghe theo (từ bỏ ý định làm trái)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "投げます",
+            "hiragana": "なげます",
+            "hanviet": "ĐẦU",
+            "meaning": "Ném",
+            "radical_analysis": {
+                "radical": "扌 (Thủ), 殳 (Thù)",
+                "explanation": "Đầu (投): Tay (Thủ) cầm binh khí (Thù) ném đi."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "守ります",
+            "hiragana": "まもります",
+            "hanviet": "THỦ",
+            "meaning": "Giữ (lời hứa), tuân thủ",
+            "radical_analysis": {
+                "radical": "宀 (Miên), 寸 (Thốn)",
+                "explanation": "Thủ (守): Trong nhà (Miên) dùng tấc (Thốn) sắt pháp luật để giữ gìn trật tự."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "始まります",
+            "hiragana": "はじまります",
+            "hanviet": "THỦY",
+            "meaning": "Bắt đầu [buổi lễ]",
+            "radical_analysis": {
+                "radical": "女 (Nữ), 台 (Đài)",
+                "explanation": "Thủy (始): Người con gái (Nữ) bước lên bục (Đài) để bắt đầu sự nghiệp."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "出席します",
+            "hiragana": "しゅっせきします",
+            "hanviet": "XUẤT TỊCH",
+            "meaning": "Dự [họp]",
+            "radical_analysis": {
+                "radical": "出 (Xuất), 巾 (Cân)",
+                "explanation": "Xuất (出): Đi ra. Tịch (席): Ngồi vào chiếu (Cân) trong nhà (Nghiễm) để dự tiệc."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "伝えます",
+            "hiragana": "つたえます",
+            "hanviet": "TRUYỀN",
+            "meaning": "Nói lại, truyền đạt",
+            "radical_analysis": {
+                "radical": "亻 (Nhân), 云 (Vân)",
+                "explanation": "Truyền (伝): Người (Nhân) dùng lời nói (Vân - mây/nói) để lan truyền."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "注意します",
+            "hiragana": "ちゅういします",
+            "hanviet": "CHÚ Ý",
+            "meaning": "Chú ý [xe ô tô]",
+            "radical_analysis": {
+                "radical": "氵 (Thủy), 心 (Tâm)",
+                "explanation": "Chú (注): Rót nước (Thủy) và tâm ý (Ý) để chú trọng vào việc gì đó."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "外します",
+            "hiragana": "はずします",
+            "hanviet": "NGOẠI",
+            "meaning": "Rời [ghế]",
+            "radical_analysis": {
+                "radical": "夕 (Tịch), 卜 (Bốc)",
+                "explanation": "Ngoại (外): Buổi tối (Tịch) đi ra ngoài xem bói (Bốc)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "戻ります",
+            "hiragana": "もどります",
+            "hanviet": "LỆ",
+            "meaning": "Quay lại, trở lại",
+            "radical_analysis": {
+                "radical": "户 (Hộ), 大 (Đại)",
+                "explanation": "Lệ (戻): Quay trở lại cánh cửa (Hộ) to lớn (Đại)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "あります",
+            "hanviet": "-",
+            "meaning": "Có [điện thoại]",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "リサイクルします",
+            "hanviet": "-",
+            "meaning": "Tái chế",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ ngoại lai (Katakana)."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "だめ[な]",
+            "hanviet": "-",
+            "meaning": "Không được/không thể",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "同じ",
+            "hiragana": "おなじ",
+            "hanviet": "ĐỒNG",
+            "meaning": "Giống",
+            "radical_analysis": {
+                "radical": "冂 (Quynh), 一 (Nhất), 口 (Khẩu)",
+                "explanation": "Đồng (同): Một (Nhất) cái miệng (Khẩu) trong biên giới (Quynh) cùng nói giống nhau."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "警察",
+            "hiragana": "けいさつ",
+            "hanviet": "CẢNH SÁT",
+            "meaning": "Cảnh sát",
+            "radical_analysis": {
+                "radical": "言 (Ngôn), 示 (Thị)",
+                "explanation": "Cảnh (警): Lời nói (Ngôn) tôn kính (Kính) để cảnh báo. Sát (察): Xem xét tế lễ (Tế) trong nhà (Miên)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "席",
+            "hiragana": "せき",
+            "hanviet": "TỊCH",
+            "meaning": "Ghế, chỗ ngồi",
+            "radical_analysis": {
+                "radical": "广 (Nghiễm), 巾 (Cân)",
+                "explanation": "Tịch (席): Trong nhà (Nghiễm) trải khăn (Cân) mời hai mươi (Chấp) người ngồi."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "マーク",
+            "hanviet": "-",
+            "meaning": "Ký hiệu (Mark)",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ ngoại lai (Katakana)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "ボール",
+            "hanviet": "-",
+            "meaning": "Quả bóng (Ball)",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ ngoại lai (Katakana)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "締め切り",
+            "hiragana": "しめきり",
+            "hanviet": "ĐẾ THIẾT",
+            "meaning": "Hạn chót",
+            "radical_analysis": {
+                "radical": "糸 (Mịch), 刀 (Đao)",
+                "explanation": "Đế (締): Dùng chỉ buộc. Thiết (切): Cắt. -> Cắt đứt/chốt lại thời hạn."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "規則",
+            "hiragana": "きそく",
+            "hanviet": "QUY TẮC",
+            "meaning": "Quy tắc",
+            "radical_analysis": {
+                "radical": "見 (Kiến), 刀 (Đao)",
+                "explanation": "Quy (規): Nhìn (Kiến) vào khuôn thước của chồng (Phu). Tắc (則): Tiền (Bối) và dao (Đao) tạo ra phép tắc."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "危険",
+            "hiragana": "きけん",
+            "hanviet": "NGUY HIỂM",
+            "meaning": "Nguy hiểm",
+            "radical_analysis": {
+                "radical": "卩 (Tiết), 阝 (Phụ)",
+                "explanation": "Nguy (危): Đứng trên vách núi nhìn xuống. Hiểm (険): Địa thế hiểm trở."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "使用禁止",
+            "hiragana": "しようきんし",
+            "hanviet": "SỬ DỤNG CẤM CHỈ",
+            "meaning": "Cấm sử dụng",
+            "radical_analysis": {
+                "radical": "人 (Nhân), 示 (Thị)",
+                "explanation": "Cấm (禁): Rừng (Lâm) có điềm báo (Thị) cấm vào."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "立入禁止",
+            "hiragana": "たちいりきんし",
+            "hanviet": "LẬP NHẬP CẤM CHỈ",
+            "meaning": "Cấm vào",
+            "radical_analysis": {
+                "radical": "立 (Lập), 入 (Nhập)",
+                "explanation": "Lập (立): Đứng. Nhập (入): Vào. -> Cấm bước vào."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "徐行",
+            "hiragana": "じょこう",
+            "hanviet": "TỪ HÀNH",
+            "meaning": "Chạy chậm, đi chậm",
+            "radical_analysis": {
+                "radical": "彳 (Xích), 余 (Dư)",
+                "explanation": "Từ (徐): Bước đi (Xích) thong thả (Dư)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "入口",
+            "hiragana": "いりぐち",
+            "hanviet": "NHẬP KHẨU",
+            "meaning": "Lối vào",
+            "radical_analysis": {
+                "radical": "入 (Nhập), 口 (Khẩu)",
+                "explanation": "Miệng/cửa (Khẩu) để đi vào (Nhập)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "出口",
+            "hiragana": "でぐち",
+            "hanviet": "XUẤT KHẨU",
+            "meaning": "Lối ra",
+            "radical_analysis": {
+                "radical": "出 (Xuất), 口 (Khẩu)",
+                "explanation": "Miệng/cửa (Khẩu) để đi ra (Xuất)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "非常口",
+            "hiragana": "ひじょうぐち",
+            "hanviet": "PHI THƯỜNG KHẨU",
+            "meaning": "Cửa thoát hiểm",
+            "radical_analysis": {
+                "radical": "非 (Phi), 巾 (Cân)",
+                "explanation": "Cửa dùng cho trường hợp không (Phi) bình thường (Thường)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "無料",
+            "hiragana": "むりょう",
+            "hanviet": "VÔ LIỆU",
+            "meaning": "Miễn phí",
+            "radical_analysis": {
+                "radical": "火 (Hỏa), 米 (Mễ)",
+                "explanation": "Vô (無): Không. Liệu (料): Phí/Nguyên liệu."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "割引",
+            "hiragana": "わりびき",
+            "hanviet": "CÁT DẪN",
+            "meaning": "Giảm giá",
+            "radical_analysis": {
+                "radical": "刀 (Đao), 弓 (Cung)",
+                "explanation": "Cát (割): Cắt giảm. Dẫn (引): Kéo xuống."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "飲み放題",
+            "hiragana": "のみほうだい",
+            "hanviet": "ẨM PHÓNG ĐỀ",
+            "meaning": "Uống thoải mái",
+            "radical_analysis": {
+                "radical": "食 (Thực), 方 (Phương)",
+                "explanation": "Ẩm (飲): Uống. Phóng (放): Thả ga. Đề (題): Chủ đề."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "使用中",
+            "hiragana": "しようちゅう",
+            "hanviet": "SỬ DỤNG TRUNG",
+            "meaning": "Đang sử dụng",
+            "radical_analysis": {
+                "radical": "人 (Nhân), 中 (Trung)",
+                "explanation": "Trung (中): Đang trong trạng thái nào đó."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "募集中",
+            "hiragana": "ぼしゅうちゅう",
+            "hanviet": "MỘ TẬP TRUNG",
+            "meaning": "Đang tuyển",
+            "radical_analysis": {
+                "radical": "力 (Lực), 隹 (Chuy)",
+                "explanation": "Mộ (募): Chiêu mộ. Tập (集): Tập hợp. Trung (中): Đang."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "～中",
+            "hiragana": "～ちゅう",
+            "hanviet": "TRUNG",
+            "meaning": "Đang ～",
+            "radical_analysis": {
+                "radical": "丨 (Cổn)",
+                "explanation": "Trung (中): Ở giữa/Đang diễn ra."
+            },
+            "type": "Hậu tố"
+        },
+        {
+            "kanji": "",
+            "hiragana": "どういう～",
+            "hanviet": "-",
+            "meaning": "～ như thế nào",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Biểu hiện từ vựng."
+            },
+            "type": "Biểu hiện"
+        },
+        {
+            "kanji": "",
+            "hiragana": "いくら～ても",
+            "hanviet": "-",
+            "meaning": "Dù ～ bao nhiêu đi nữa",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Biểu hiện ngữ pháp."
+            },
+            "type": "Biểu hiện"
+        },
+        {
+            "kanji": "",
+            "hiragana": "もう",
+            "hanviet": "-",
+            "meaning": "Đã ～ rồi / Không ～ nữa",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Phó từ."
+            },
+            "type": "Trạng từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "あと～",
+            "hanviet": "-",
+            "meaning": "Còn ～ nữa",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Biểu hiện thời gian/số lượng."
+            },
+            "type": "Biểu hiện"
+        },
+        {
+            "kanji": "",
+            "hiragana": "～ほど",
+            "hanviet": "-",
+            "meaning": "Khoảng ～",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Hậu tố chỉ mức độ."
+            },
+            "type": "Hậu tố"
+        },
+        {
+            "kanji": "駐車違反",
+            "hiragana": "ちゅうしゃいはん",
+            "hanviet": "TRÚ XA VI PHẢN",
+            "meaning": "Đỗ xe sai quy định",
+            "radical_analysis": {
+                "radical": "馬 (Mã), ⻌ (Sước)",
+                "explanation": "Trú (駐): Dừng ngựa. Xa (車): Xe. Vi (違): Sai. Phản (反): Trái."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "罰金",
+            "hiragana": "ばっきん",
+            "hanviet": "PHẠT KIM",
+            "meaning": "Tiền phạt",
+            "radical_analysis": {
+                "radical": "罒 (Võng), 金 (Kim)",
+                "explanation": "Phạt (罰): Trừng phạt. Kim (金): Tiền."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "地震",
+            "hiragana": "じしん",
+            "hanviet": "ĐỊA CHẤN",
+            "meaning": "Động đất",
+            "radical_analysis": {
+                "radical": "土 (Thổ), 雨 (Vũ)",
+                "explanation": "Địa (地): Đất. Chấn (震): Rung chuyển."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "起きます",
+            "hiragana": "おきます",
+            "hanviet": "KHỞI",
+            "meaning": "Xảy ra",
+            "radical_analysis": {
+                "radical": "走 (Tẩu), 己 (Kỷ)",
+                "explanation": "Khởi (起): Vùng dậy, bắt đầu, xảy ra."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "助け合います",
+            "hiragana": "たすけあいます",
+            "hanviet": "TRỢ HỢP",
+            "meaning": "Giúp đỡ lẫn nhau",
+            "radical_analysis": {
+                "radical": "力 (Lực), 口 (Khẩu)",
+                "explanation": "Trợ (助): Giúp sức. Hợp (合): Cùng nhau."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "もともと",
+            "hanviet": "-",
+            "meaning": "Vốn dĩ",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Phó từ."
+            },
+            "type": "Trạng từ"
+        },
+        {
+            "kanji": "悲しい",
+            "hiragana": "かなしい",
+            "hanviet": "BI",
+            "meaning": "Buồn",
+            "radical_analysis": {
+                "radical": "心 (Tâm)",
+                "explanation": "Bi (悲): Tâm (Tâm) buồn rầu, đau thương."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "もっと",
+            "hanviet": "-",
+            "meaning": "Hơn nữa",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Phó từ."
+            },
+            "type": "Trạng từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "あいさつ",
+            "hanviet": "-",
+            "meaning": "Chào hỏi",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Danh từ (thường viết Kana ở N4)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "相手",
+            "hiragana": "あいて",
+            "hanviet": "TƯƠNG THỦ",
+            "meaning": "Đối phương",
+            "radical_analysis": {
+                "radical": "木 (Mộc), 目 (Mục)",
+                "explanation": "Tương (相): Tương tác. Thủ (手): Người/Tay."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "気持ち",
+            "hiragana": "きもち",
+            "hanviet": "KHÍ TRÌ",
+            "meaning": "Tâm trạng",
+            "radical_analysis": {
+                "radical": "气 (Khí), 扌 (Thủ)",
+                "explanation": "Khí (気): Tinh thần. Trì (持): Mang/Giữ."
+            },
+            "type": "Danh từ"
+        }
+    ]
+}
