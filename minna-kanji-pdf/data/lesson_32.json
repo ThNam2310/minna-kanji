@@ -8,8 +8,8 @@
             "hanviet": "VẬN ĐỘNG",
             "meaning": "Vận động, tập thể thao",
             "radical_analysis": {
-                "radical": "⻌ (Sước), 車 (Xa), 力 (Lực)",
-                "explanation": "Vận (運): Xe (Xa) quân đội chở đồ đi (Sước). Động (動): Dùng sức (Lực) di chuyển vật nặng (Trọng)."
+                "radical": "辶 (Sước), 重 (Trọng), 力 (Lực)",
+                "explanation": "Vận (運): Đi lại (Sước) vận chuyển vật nặng (Trọng). Động (動): Dùng sức (Lực) để di chuyển vật nặng (Trọng)."
             },
             "type": "Động từ"
         },
@@ -19,8 +19,8 @@
             "hanviet": "THÀNH CÔNG",
             "meaning": "Thành công",
             "radical_analysis": {
-                "radical": "戈 (Qua), 力 (Lực)",
-                "explanation": "Thành (成): Vạn sự hoàn thành (Thành) nhờ vũ khí (Qua). Công (功): Công sức (Lực) làm việc (Công)."
+                "radical": "戈 (Qua), 工 (Công), 力 (Lực)",
+                "explanation": "Thành (成): Dùng vũ khí (Qua) hoàn thành trọn vẹn (Đinh). Công (功): Làm việc (Công) dùng sức (Lực) thì có công lao."
             },
             "type": "Động từ"
         },
@@ -28,10 +28,10 @@
             "kanji": "失敗します",
             "hiragana": "しっぱいします",
             "hanviet": "THẤT BẠI",
-            "meaning": "Thất bại, trượt [thi]",
+            "meaning": "Thất bại, trượt [thi~]",
             "radical_analysis": {
-                "radical": "失 (Thất), 貝 (Bối)",
-                "explanation": "Thất (失): Mất đi. Bại (敗): Đánh (Phộc) thua nên mất tiền (Bối)."
+                "radical": "大 (Đại), 貝 (Bối), 攴 (Phộc)",
+                "explanation": "Thất (失): Mất đi (do tuột tay). Bại (敗): Tiền (Bối) bị đánh (Phộc) mất là thất bại."
             },
             "type": "Động từ"
         },
@@ -39,10 +39,10 @@
             "kanji": "合格します",
             "hiragana": "ごうかくします",
             "hanviet": "HỢP CÁCH",
-            "meaning": "Đỗ [thi]",
+            "meaning": "Đỗ [thi~]",
             "radical_analysis": {
                 "radical": "口 (Khẩu), 木 (Mộc)",
-                "explanation": "Hợp (合): Một (Nhất) người (Nhân) một miệng (Khẩu) nói lời hòa hợp. Cách (格): Cây (Mộc) trồng ở mỗi (Các) nơi có tư cách khác nhau."
+                "explanation": "Hợp (合): Nhiều miệng (Khẩu) cùng nói một lời (Nhất) là hòa hợp. Cách (格): Cây (Mộc) trồng riêng (Các) theo quy cách."
             },
             "type": "Động từ"
         },
@@ -53,18 +53,18 @@
             "meaning": "Quay lại, trở lại",
             "radical_analysis": {
                 "radical": "户 (Hộ), 大 (Đại)",
-                "explanation": "Lệ (戻): Quay trở lại cánh cửa (Hộ) to lớn (Đại)."
+                "explanation": "Lệ (戻): Quay trở về cánh cửa (Hộ) to lớn (Đại)."
             },
             "type": "Động từ"
         },
         {
-            "kanji": "止みます",
+            "kanji": "",
             "hiragana": "やみます",
-            "hanviet": "CHỈ",
-            "meaning": "Tạnh, ngừng [mưa]",
+            "hanviet": "-",
+            "meaning": "Tạnh, ngừng [mưa~]",
             "radical_analysis": {
-                "radical": "止 (Chỉ)",
-                "explanation": "Chỉ (止): Dừng lại (hình bàn chân)."
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
             },
             "type": "Động từ"
         },
@@ -75,7 +75,7 @@
             "meaning": "Nắng, quang đãng",
             "radical_analysis": {
                 "radical": "日 (Nhật), 青 (Thanh)",
-                "explanation": "Tình (晴): Mặt trời (Nhật) lên cao, trời xanh (Thanh) là ngày nắng."
+                "explanation": "Tình (晴): Trời xanh (Thanh) có mặt trời (Nhật)."
             },
             "type": "Động từ"
         },
@@ -86,7 +86,7 @@
             "meaning": "Có mây, mây mù",
             "radical_analysis": {
                 "radical": "日 (Nhật), 云 (Vân)",
-                "explanation": "Đàm (曇): Mặt trời (Nhật) bị mây (Vân) che phủ."
+                "explanation": "Đàm (曇): Mặt trời (Nhật) bị mây (Vân) che khuất."
             },
             "type": "Động từ"
         },
@@ -94,10 +94,10 @@
             "kanji": "吹きます",
             "hiragana": "ふきます",
             "hanviet": "XUY",
-            "meaning": "Thổi [gió]",
+            "meaning": "Thổi [gió~]",
             "radical_analysis": {
                 "radical": "口 (Khẩu), 欠 (Khiếm)",
-                "explanation": "Xuy (吹): Miệng (Khẩu) thiếu (Khiếm) hơi nên phải thổi."
+                "explanation": "Xuy (吹): Miệng (Khẩu) người đang thiếu (Khiếm) hơi để thổi."
             },
             "type": "Động từ"
         },
@@ -108,18 +108,18 @@
             "meaning": "Khỏi [bệnh]",
             "radical_analysis": {
                 "radical": "氵 (Thủy), 台 (Đài)",
-                "explanation": "Trị (治): Dùng nước (Thủy) trên bệ (Đài) để chữa trị vết thương."
+                "explanation": "Trị (治): Dùng nước (Thủy) đắp lên bệ (Đài) để trị thương."
             },
             "type": "Động từ"
         },
         {
-            "kanji": "直ります",
+            "kanji": "",
             "hiragana": "なおります",
-            "hanviet": "TRỰC",
-            "meaning": "Được sửa [hỏng hóc]",
+            "hanviet": "-",
+            "meaning": "Sửa xong [chỗ hỏng]",
             "radical_analysis": {
-                "radical": "目 (Mục)",
-                "explanation": "Trực (直): Mười (Thập) con mắt (Mục) nhìn thẳng để sửa chữa."
+                "radical": "-",
+                "explanation": "Thường dùng 直ります (Trực) - không yêu cầu trong bài."
             },
             "type": "Động từ"
         },
@@ -127,10 +127,21 @@
             "kanji": "続きます",
             "hiragana": "つづきます",
             "hanviet": "TỤC",
-            "meaning": "Tiếp tục, tiếp diễn",
+            "meaning": "Tiếp tục, tiếp diễn [sốt]",
             "radical_analysis": {
                 "radical": "糸 (Mịch), 売 (Mại)",
-                "explanation": "Tục (続): Dùng sợi chỉ (Mịch) buộc hàng hóa bán (Mại) liên tục."
+                "explanation": "Tục (続): Dùng sợi chỉ (Mịch) buộc hàng hóa đem bán (Mại) liên tục."
+            },
+            "type": "Động từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "ひきます",
+            "hanviet": "-",
+            "meaning": "Bị [cảm]",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
             },
             "type": "Động từ"
         },
@@ -141,7 +152,7 @@
             "meaning": "Làm lạnh",
             "radical_analysis": {
                 "radical": "冫 (Băng), 令 (Lệnh)",
-                "explanation": "Lãnh (冷): Ra lệnh (Lệnh) làm đóng băng (Băng)."
+                "explanation": "Lãnh (冷): Băng (Băng) lạnh như quân lệnh (Lệnh)."
             },
             "type": "Động từ"
         },
@@ -152,20 +163,97 @@
             "meaning": "Lo lắng",
             "radical_analysis": {
                 "radical": "心 (Tâm), 酉 (Dậu)",
-                "explanation": "Phối (配): Phân chia bình rượu (Dậu) cho bản thân (Kỷ). Tâm (心) cứ phân chia lo nghĩ."
+                "explanation": "Tâm (心): Tim. Phối (配): Phân phối rượu (Dậu) cho bản thân (Kỷ) uống giải sầu lo."
             },
             "type": "Tính từ"
         },
         {
             "kanji": "十分[な]",
             "hiragana": "じゅうぶん[な]",
-            "hanviet": "THẬP PHÂN",
+            "hanviet": "THẬP PHẦN",
             "meaning": "Đủ",
             "radical_analysis": {
                 "radical": "十 (Thập), 刀 (Đao)",
-                "explanation": "Thập (十): Mười. Phân (分): Chia ra."
+                "explanation": "Thập (十): Mười. Phần (分): Dùng dao (Đao) chia tám (Bát). Mười phần là trọn vẹn."
             },
             "type": "Tính từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "おかしい",
+            "hanviet": "-",
+            "meaning": "Có vấn đề, không bình thường, buồn cười",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "うるさい",
+            "hanviet": "-",
+            "meaning": "Ồn ào, to",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Tính từ"
+        },
+        {
+            "kanji": "先生",
+            "hiragana": "せんせい",
+            "hanviet": "TIÊN SINH",
+            "meaning": "Bác sĩ",
+            "radical_analysis": {
+                "radical": "先 (Tiên), 生 (Sinh)",
+                "explanation": "Tiên (先): Người đi trước (Tiên). Sinh (生): Sinh ra. -> Người đi trước, hiểu biết rộng."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "やけど",
+            "hanviet": "-",
+            "meaning": "Bỏng",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "けが",
+            "hanviet": "-",
+            "meaning": "Bị thương",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "せき",
+            "hanviet": "-",
+            "meaning": "Ho",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "インフルエンザ",
+            "hanviet": "-",
+            "meaning": "Cúm dịch",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ ngoại lai (Katakana)."
+            },
+            "type": "Danh từ"
         },
         {
             "kanji": "空",
@@ -174,7 +262,7 @@
             "meaning": "Bầu trời",
             "radical_analysis": {
                 "radical": "穴 (Huyệt), 工 (Công)",
-                "explanation": "Không (空): Đục cái hang (Huyệt) bằng sức thợ (Công) thấy khoảng không."
+                "explanation": "Không (空): Đục cái hang (Huyệt) bằng sức thợ (Công) tạo ra khoảng không."
             },
             "type": "Danh từ"
         },
@@ -185,7 +273,7 @@
             "meaning": "Mặt trời",
             "radical_analysis": {
                 "radical": "大 (Đại), 日 (Nhật)",
-                "explanation": "Thái (太): Rất to lớn. Dương (陽): Vùng đất (Phụ) có mặt trời (Nhật) chiếu sáng (Vật)."
+                "explanation": "Thái (太): To lớn (Đại) thêm một chút (Chủ). Dương (陽): Ánh nắng từ mặt trời (Nhật)."
             },
             "type": "Danh từ"
         },
@@ -193,7 +281,7 @@
             "kanji": "星",
             "hiragana": "ほし",
             "hanviet": "TINH",
-            "meaning": "Ngôi sao",
+            "meaning": "Sao, ngôi sao",
             "radical_analysis": {
                 "radical": "日 (Nhật), 生 (Sinh)",
                 "explanation": "Tinh (星): Mặt trời (Nhật) sinh (Sinh) ra các vì sao."
@@ -204,7 +292,7 @@
             "kanji": "月",
             "hiragana": "つき",
             "hanviet": "NGUYỆT",
-            "meaning": "Mặt trăng",
+            "meaning": "Trăng, mặt trăng",
             "radical_analysis": {
                 "radical": "月 (Nguyệt)",
                 "explanation": "Nguyệt (月): Hình trăng lưỡi liềm."
@@ -218,40 +306,7 @@
             "meaning": "Gió",
             "radical_analysis": {
                 "radical": "几 (Kỷ), 虫 (Trùng)",
-                "explanation": "Phong (風): Cánh buồm (Phàm/Kỷ) đón gió, bên trong có côn trùng (Trùng) bay."
-            },
-            "type": "Danh từ"
-        },
-        {
-            "kanji": "北",
-            "hiragana": "きた",
-            "hanviet": "BẮC",
-            "meaning": "Phía bắc",
-            "radical_analysis": {
-                "radical": "匕 (Chủy)",
-                "explanation": "Bắc (北): Hai người ngồi quay lưng vào nhau."
-            },
-            "type": "Danh từ"
-        },
-        {
-            "kanji": "南",
-            "hiragana": "みなみ",
-            "hanviet": "NAM",
-            "meaning": "Phía nam",
-            "radical_analysis": {
-                "radical": "十 (Thập), 羊 (Dương)",
-                "explanation": "Nam (南): Vùng đất phía Nam mười (Thập) năm ấm áp nuôi được dê (Dương)."
-            },
-            "type": "Danh từ"
-        },
-        {
-            "kanji": "西",
-            "hiragana": "にし",
-            "hanviet": "TÂY",
-            "meaning": "Phía tây",
-            "radical_analysis": {
-                "radical": "西 (Tây)",
-                "explanation": "Tây (西): Chim quay về tổ lúc mặt trời lặn đằng Tây."
+                "explanation": "Phong (風): Cơn gió thổi côn trùng (Trùng) bay vào trong màn (Kỷ)."
             },
             "type": "Danh từ"
         },
@@ -259,10 +314,54 @@
             "kanji": "東",
             "hiragana": "ひがし",
             "hanviet": "ĐÔNG",
-            "meaning": "Phía đông",
+            "meaning": "Đông",
             "radical_analysis": {
                 "radical": "木 (Mộc), 日 (Nhật)",
-                "explanation": "Đông (東): Mặt trời (Nhật) mọc lên từ phía sau cây (Mộc)."
+                "explanation": "Đông (東): Mặt trời (Nhật) mọc lên sau cái cây (Mộc)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "西",
+            "hiragana": "にし",
+            "hanviet": "TÂY",
+            "meaning": "Tây",
+            "radical_analysis": {
+                "radical": "覀 (Á)",
+                "explanation": "Tây (西): Mặt trời lặn hướng Tây, chim về tổ."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "南",
+            "hiragana": "みなみ",
+            "hanviet": "NAM",
+            "meaning": "Nam",
+            "radical_analysis": {
+                "radical": "十 (Thập), 冂 (Quynh)",
+                "explanation": "Nam (南): Phương Nam ấm áp, cây cối mọc tươi tốt (Thập), quây quần (Quynh) bên nhau."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "北",
+            "hiragana": "きた",
+            "hanviet": "BẮC",
+            "meaning": "Bắc",
+            "radical_analysis": {
+                "radical": "匕 (Chủy)",
+                "explanation": "Bắc (北): Hai người ngồi quay lưng (Hi) lại với nhau."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "国際～",
+            "hiragana": "こくさい～",
+            "hanviet": "QUỐC TẾ",
+            "meaning": "~ quốc tế",
+            "radical_analysis": {
+                "radical": "囗 (Vi), 阝 (Phụ), 祭 (Tế)",
+                "explanation": "Quốc (国): Vùng đất có vua (Ngọc) bao quanh (Vi). Tế (際): Vùng đất (Phụ) để cũng tế (Tế)."
             },
             "type": "Danh từ"
         },
@@ -272,8 +371,30 @@
             "hanviet": "THỦY ĐẠO",
             "meaning": "Nước máy",
             "radical_analysis": {
-                "radical": "氵 (Thủy), ⻌ (Sước)",
-                "explanation": "Thủy (水): Nước. Đạo (道): Con đường (Sước) dẫn nước đi."
+                "radical": "氵 (Thủy), 辶 (Sước)",
+                "explanation": "Thủy (水): Nước. Đạo (道): Con đường (Sước) dẫn (Thủ) nước."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "エンジン",
+            "hanviet": "-",
+            "meaning": "Động cơ",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ ngoại lai (Katakana)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "チーム",
+            "hanviet": "-",
+            "meaning": "Đội",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ ngoại lai (Katakana)."
             },
             "type": "Danh từ"
         },
@@ -281,10 +402,10 @@
             "kanji": "今夜",
             "hiragana": "こんや",
             "hanviet": "KIM DẠ",
-            "meaning": "Tối nay",
+            "meaning": "Tối nay, đêm nay",
             "radical_analysis": {
                 "radical": "人 (Nhân), 夕 (Tịch)",
-                "explanation": "Kim (今): Bây giờ. Dạ (夜): Người (Nhân) đứng dưới mái nhà vào buổi tối (Tịch)."
+                "explanation": "Kim (今): Bây giờ. Dạ (夜): Người (Nhân) đứng dưới mái nhà (Miên) ngắm trăng (Tịch) ban đêm."
             },
             "type": "Danh từ"
         },
@@ -295,7 +416,7 @@
             "meaning": "Chiều tối",
             "radical_analysis": {
                 "radical": "夕 (Tịch), 方 (Phương)",
-                "explanation": "Tịch (夕): Chiều tà. Phương (方): Phương hướng."
+                "explanation": "Tịch (夕): Buổi chiều tối mặt trời lặn nửa (Tịch). Phương (方): Phương hướng."
             },
             "type": "Danh từ"
         },
@@ -305,8 +426,8 @@
             "hanviet": "TIỀN",
             "meaning": "Trước",
             "radical_analysis": {
-                "radical": "刀 (Đao), 月 (Nguyệt)",
-                "explanation": "Tiền (前): Cắt (Đao) thịt (Nguyệt) bày ra phía trước."
+                "radical": "刂 (Đao), 月 (Nhục)",
+                "explanation": "Tiền (前): Cắt (Đao) thịt (Nhục) bày ra phía trước."
             },
             "type": "Danh từ"
         },
@@ -316,19 +437,85 @@
             "hanviet": "TRÌ",
             "meaning": "Muộn, khuya",
             "radical_analysis": {
-                "radical": "⻌ (Sước)",
-                "explanation": "Trì (遅): Con cừu (Dương) đi (Sước) trên xác chết (Thi) nên rất chậm trễ."
+                "radical": "辶 (Sước), 羊 (Dương)",
+                "explanation": "Trì (遅): Con cừu (Dương) chết (Thi) nên đi (Sước) chậm trễ."
             },
-            "type": "Phó từ"
+            "type": "Trạng từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "こんなに",
+            "hanviet": "-",
+            "meaning": "Như thế này",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Phó từ / Chỉ thị từ."
+            },
+            "type": "Trạng từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "そんなに",
+            "hanviet": "-",
+            "meaning": "Như thế đó",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Phó từ / Chỉ thị từ."
+            },
+            "type": "Trạng từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "あんなに",
+            "hanviet": "-",
+            "meaning": "Như thế kia",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Phó từ / Chỉ thị từ."
+            },
+            "type": "Trạng từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "もしかしたら",
+            "hanviet": "-",
+            "meaning": "Có thể, biết đâu là, có khả năng",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Phó từ."
+            },
+            "type": "Trạng từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "それはいけませんね。",
+            "hanviet": "-",
+            "meaning": "Thế thì thật không tốt.",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Cụm từ giao tiếp."
+            },
+            "type": "Cụm từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "オリンピック",
+            "hanviet": "-",
+            "meaning": "Olympic",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ ngoại lai (Katakana)."
+            },
+            "type": "Danh từ"
         },
         {
             "kanji": "元気",
             "hiragana": "げんき",
             "hanviet": "NGUYÊN KHÍ",
-            "meaning": "Khỏe mạnh",
+            "meaning": "Khỏe, khỏe mạnh",
             "radical_analysis": {
                 "radical": "二 (Nhị), 气 (Khí)",
-                "explanation": "Nguyên (元): Gốc rễ. Khí (気): Năng lượng. -> Khí chất từ gốc."
+                "explanation": "Nguyên (元): Hai (Nhị) người (Nhi) là gốc rễ. Khí (気): Không khí/tinh thần."
             },
             "type": "Tính từ"
         },
@@ -339,7 +526,7 @@
             "meaning": "Dạ dày",
             "radical_analysis": {
                 "radical": "田 (Điền), 月 (Nhục)",
-                "explanation": "Vị (胃): Cái ruộng (Điền) chứa thịt (Nhục) trong cơ thể."
+                "explanation": "Vị (胃): Ruộng (Điền) chứa thịt (Nhục) là cái dạ dày."
             },
             "type": "Danh từ"
         },
@@ -349,30 +536,63 @@
             "hanviet": "ĐỘNG",
             "meaning": "Làm việc quá sức",
             "radical_analysis": {
-                "radical": "亻 (Nhân), 力 (Lực)",
-                "explanation": "Động (働): Người (Nhân) dùng sức (Lực) để chuyển động (Động) làm việc."
+                "radical": "亻 (Nhân), 動 (Động)",
+                "explanation": "Động (働): Người (Nhân) lao động dùng sức (Lực) di chuyển vật nặng (Trọng)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "",
+            "hiragana": "ストレス",
+            "hanviet": "-",
+            "meaning": "Stress, căng thẳng tâm lý",
+            "radical_analysis": {
+                "radical": "-",
+                "explanation": "Từ ngoại lai (Katakana)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "無理をします",
+            "hiragana": "むりをします",
+            "hanviet": "VÔ LÝ",
+            "meaning": "Làm quá sức",
+            "radical_analysis": {
+                "radical": "火 (Hỏa), 里 (Lý)",
+                "explanation": "Vô (無): Không có. Lý (理): Vua (Ngọc) cai quản ruộng đất (Lý) có lý lẽ. -> Không có lý, quá sức."
             },
             "type": "Động từ"
         },
         {
-            "kanji": "無理",
-            "hiragana": "むり",
-            "hanviet": "VÔ LÝ",
-            "meaning": "Làm quá sức, vô lý",
+            "kanji": "",
+            "hiragana": "ゆっくりします",
+            "hanviet": "-",
+            "meaning": "Nghỉ ngơi, thư thái",
             "radical_analysis": {
-                "radical": "火 (Hỏa), 王 (Vương)",
-                "explanation": "Vô (無): Không có. Lý (理): Ông vua (Vương) cai quản ruộng đất (Lý) có lý lẽ."
+                "radical": "-",
+                "explanation": "Từ vựng thường viết Hiragana."
             },
             "type": "Động từ"
         },
         {
             "kanji": "星占い",
             "hiragana": "ほしうらない",
-            "hanviet": "TINH CHIÊM",
+            "hanviet": "TINH CHIẾM",
             "meaning": "Bói sao",
             "radical_analysis": {
                 "radical": "日 (Nhật), 卜 (Bốc)",
-                "explanation": "Tinh (星): Sao. Chiêm (占): Cái miệng (Khẩu) nói lời bói toán (Bốc)."
+                "explanation": "Tinh (星): Ngôi sao. Chiếm (占): Thầy bói (Bốc) nói (Khẩu) lời tiên tri."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "牡牛座",
+            "hiragana": "おうしざ",
+            "hanviet": "MẪU NGƯU TỌA",
+            "meaning": "Chòm sao Kim Ngưu",
+            "radical_analysis": {
+                "radical": "牜 (Ngưu), 土 (Thổ), 广 (Nghiễm)",
+                "explanation": "Mẫu (牡): Con đực (Thổ). Ngưu (牛): Con bò. Tọa (座): Chỗ ngồi gồm người (Nhân) ngồi trên đất (Thổ) trong nhà (Nghiễm)."
             },
             "type": "Danh từ"
         },
@@ -380,7 +600,7 @@
             "kanji": "困ります",
             "hiragana": "こまります",
             "hanviet": "KHỐN",
-            "meaning": "Rắc rối, khó xử",
+            "meaning": "Rắc rối, khó xử, có vấn đề",
             "radical_analysis": {
                 "radical": "囗 (Vi), 木 (Mộc)",
                 "explanation": "Khốn (困): Cây (Mộc) bị nhốt trong khung (Vi) không lớn được nên khốn đốn."
@@ -394,7 +614,7 @@
             "meaning": "Xổ số",
             "radical_analysis": {
                 "radical": "宀 (Miên), 玉 (Ngọc)",
-                "explanation": "Bảo (宝): Trong nhà (Miên) có Ngọc (Ngọc) là bảo bối."
+                "explanation": "Bảo (宝): Trong nhà (Miên) có ngọc (Ngọc) quý là bảo vật."
             },
             "type": "Danh từ"
         },
@@ -402,10 +622,10 @@
             "kanji": "当たります",
             "hiragana": "あたります",
             "hanviet": "ĐƯƠNG",
-            "meaning": "Trúng [số]",
+            "meaning": "Trúng [xổ số]",
             "radical_analysis": {
-                "radical": "⺌ (Tiểu)",
-                "explanation": "Đương (当): Đương đầu, trúng đích."
+                "radical": "⺌ (Tiểu), 彑 (Kệ)",
+                "explanation": "Đương (当): Tương xứng, đúng đắn."
             },
             "type": "Động từ"
         },
@@ -413,10 +633,10 @@
             "kanji": "健康",
             "hiragana": "けんこう",
             "hanviet": "KIỆN KHANG",
-            "meaning": "Sức khỏe",
+            "meaning": "Sức khỏe, khỏe mạnh, an khang",
             "radical_analysis": {
                 "radical": "亻 (Nhân), 广 (Nghiễm)",
-                "explanation": "Kiện (健): Người xây dựng kiên cố. Khang (康): Trong nhà (Nghiễm) có gạo (Mễ) ăn là khỏe mạnh."
+                "explanation": "Kiện (健): Người (Nhân) xây dựng (Kiến) cơ thể khỏe mạnh. Khang (康): Gạo (Mễ) đãi (Đãi) trong nhà (Nghiễm) yên vui."
             },
             "type": "Danh từ"
         },
@@ -427,7 +647,7 @@
             "meaning": "Tình yêu",
             "radical_analysis": {
                 "radical": "心 (Tâm)",
-                "explanation": "Luyến (恋): Cũng (Diệc) có trái tim (Tâm). Ái (愛): Nhận lấy (Thụ) tình cảm từ trái tim (Tâm)."
+                "explanation": "Luyến (恋): Nói (Ngôn) cũng (Diệc) không được, chỉ giữ trong tim (Tâm). Ái (愛): Yêu."
             },
             "type": "Danh từ"
         },
@@ -438,18 +658,29 @@
             "meaning": "Người yêu",
             "radical_analysis": {
                 "radical": "心 (Tâm), 人 (Nhân)",
-                "explanation": "Luyến (恋): Tình yêu. Nhân (人): Người."
+                "explanation": "Luyến (恋): Nhớ nhung. Nhân (人): Người."
             },
             "type": "Danh từ"
         },
         {
-            "kanji": "お金持ち",
-            "hiragana": "おかねもち",
-            "hanviet": "KIM TRÌ",
-            "meaning": "Người giàu có",
+            "kanji": "",
+            "hiragana": "ラッキーアイテム",
+            "hanviet": "-",
+            "meaning": "Vật may mắn",
             "radical_analysis": {
-                "radical": "金 (Kim), 扌 (Thủ)",
-                "explanation": "Kim (金): Tiền vàng. Trì (持): Tay (Thủ) cầm nắm chùa (Tự) -> Cầm nhiều tiền."
+                "radical": "-",
+                "explanation": "Từ ngoại lai (Katakana)."
+            },
+            "type": "Danh từ"
+        },
+        {
+            "kanji": "石",
+            "hiragana": "いし",
+            "hanviet": "THẠCH",
+            "meaning": "Hòn đá, viên đá",
+            "radical_analysis": {
+                "radical": "石 (Thạch)",
+                "explanation": "Thạch (石): Hình hòn đá rơi từ vách núi."
             },
             "type": "Danh từ"
         }
